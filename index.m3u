@@ -136,7 +136,7 @@ https://cdn09jtedge.indihometv.com/joss/194/maxstream/index.m3u8
 #EXTINF:-1 tvg-chno="073" tvg-id="MentariTV.id" tvg-logo="https://logowik.com/content/uploads/images/mentari-tv2070.logowik.com.webp" group-title="Nasional",Mentari TV
 https://cdn09jtedge.indihometv.com/joss/134/mentaritv/index.m3u8
 #EXTINF:-1 tvg-chno="074" tvg-id"MetroTV" tvg-logo="https://www.firstmedia.com/_next/image?url=https%3A%2F%2Fflmngr.firstmedia.com%2Ffiles%2Flogos%2Fchannels%2F11-NEWS%2FMetro%20TV%20SD-FirstMedia-Chl-7.jpg&w=1920&q=100" group-title="Berita",Metro TV
-https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
+https://cdn09jtedge.indihometv.com/joss/133/metrotv/index.m3u8
 #EXTINF:-1 tvg-chno="075" tvg-id="MGSTV.id" tvg-logo="https://i.imgur.com/MYU7dsZ.png" group-title="Religi",MGSTV
 https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv.m3u8
 #EXTINF:-1 tvg-chno="077" tvg-id="MOJI.tv" tvg-logo="https://thumbor.prod.vidiocdn.com/v5PaORcp4FTzU8QX-yuZmh-qCpk=/784x441/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/206/moji-cover-7acc96.jpg" group-title="Nasional",MOJI
