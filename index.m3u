@@ -132,7 +132,7 @@ https://cdn09jtedge.indihometv.com/joss/194/lovenature/index.m3u8
 #EXTINF:-1 tvg-chno="070" tvg-id="MaduTV.id" tvg-logo="https://i.imgur.com/cKpgbgW.png" group-title="Daerah",Madu TV
 https://re1.siar.us/madutv/hd720/playlist.m3u8
 #EXTINF:-1 tvg-chno="071" tvg-id="MagnaChannel.id" tvg-logo="https://i.imgur.com/tfJo0SO.png" group-title="Nasional",Magna Channel
-https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h24/01.m3u8
 #EXTINF:-1 tvg-chno="072" tvg-id="MAXStream.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_MAX_horizontal_on_white_.jpg" group-title="Film dan Drama",MAX Stream
 https://cdn09jtedge.indihometv.com/joss/194/maxstream/index.m3u8
 #EXTINF:-1 tvg-chno="073" tvg-id="MentariTV.id" tvg-logo="https://logowik.com/content/uploads/images/mentari-tv2070.logowik.com.webp" group-title="Nasional",Mentari TV
@@ -156,7 +156,7 @@ https://cdn09jtedge.indihometv.com/joss/133/net/index.m3u8
 #EXTINF:-1 tvg-chno="084" tvg-id="NickJr.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/Nick_Jr._Splat_2023.png/revision/latest?cb=20231122165643" group-title="Anak-anak",Nick Jr
 https://cdn09jtedge.indihometv.com/joss/130/nickjr/index.m3u8
 #EXTINF:-1 tvg-chno="086" tvg-id="NTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Nusantara_TV.png" group-title="Nasional",NTV
-https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h37/01.m3u8
 #EXTINF:-1 tvg-chno="087" tvg-id="ONE.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/One_logo-small_0.png/revision/latest?cb=20200318121914" group-title="Film dan Drama",ONE
 https://cdn09jtedge.indihometv.com/joss/133/sone/index.m3u8
 #EXTINF:-1 tvg-chno="089" tvg-id="PSJTV.id" tvg-logo="https://i.postimg.cc/1XSf22bM/PSJTV-LOGO.png" group-title="Nasional",PSJ TV
