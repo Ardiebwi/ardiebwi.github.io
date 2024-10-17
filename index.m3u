@@ -59,6 +59,8 @@ https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6854467f-52fe-
 https://cdn09jtedge.indihometv.com/joss/130/dunialain/index.m3u8
 #EXTINF:-1 tvg-chno="030" tvg-id="DutaTV.id" tvg-logo="https://i.imgur.com/B4JW54M.png" group-title="Daerah",Duta TV
 https://dutatv.siar.us/dutatv/live/playlist.m3u8
+#EXTINF:-1 tvg-chno="131" tvg-id="DWTV.id" tvg-logo="" group-title="Gaya Hidup",DW TV
+https://cdn09jtedge.indihometv.com/joss/134/dwtv/index.m3u8
 #EXTINF:-1 tvg-chno="031" tvg-id="Eat&Go.id" tvg-logo="https://imgur.com/K2DtEk3.png" group-title="Kuliner",Eat & Go
 https://cdn09jtedge.indihometv.com/joss/134/eatgo/index.m3u8
 #EXTINF:-1 tvg-chno="033" tvg-id="FatwaTV.id" tvg-logo="https://i.imgur.com/FcJ6VMT.png" group-title="Religi",Fatwa TV
