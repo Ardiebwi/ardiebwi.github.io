@@ -199,6 +199,8 @@ https://cdn09jtedge.indihometv.com/joss/133/tvnmovies/index.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
 #EXTINF:-1 tvg-chno="110" tvg-id="TVRINasional.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/tvri.png?raw=true" group-title="Nasional",TVRI Nasional
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+#EXTINF:-1 tvg-chno="130" tvg-id="TVRIJawaBarat.id" tvg-logo="" group-title="Daerah",TVRI Jawa Barat
+https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8
 #EXTINF:-1 tvg-chno="111" tvg-id="TVRIJawaTengah.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/TVRI_Jawa_Tengah.png" group-title="Daerah",TVRI Jawa Tengah
 https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8
 #EXTINF:-1 tvg-chno="112" tvg-id="TVRIJawaTimur.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/TVRI_Jawa_Timur.png" group-title="Daerah",TVRI Jawa Timur
