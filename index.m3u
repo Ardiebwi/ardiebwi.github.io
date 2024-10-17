@@ -146,7 +146,7 @@ https://cdn09jtedge.indihometv.com/joss/134/moonbug/index.m3u8
 #EXTINF:-1 tvg-chno="079" tvg-id="MQTV.id" tvg-logo="https://i.imgur.com/d8dQo6E.png" group-title="Religi",MQTV
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 #EXTINF:-1 tvg-chno="080" tvg-id="MUItv.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/TV_MUI.png/revision/latest?cb=20180923122528" group-title="Religi",MUI tv
-https://mui.siar.us/mui/live/playlist.m3u8
+https://cdn09jtedge.indihometv.com/joss/130/muitv/index.m3u8
 #EXTINF:-1 tvg-chno="081" tvg-id="MusikIndo.id" tvg-logo="https://imgur.com/DqGVYUf.png" group-title="Musik",Musik Indo
 https://cdn09jtedge.indihometv.com/joss/134/musikindo720/index.m3u8
 #EXTINF:-1 tvg-chno="083" tvg-id="NET.id" tvg-logo="https://i.imgur.com/RPT8O12.png" group-title="Nasional",NET.
