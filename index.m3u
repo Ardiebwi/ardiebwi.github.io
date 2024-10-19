@@ -8,9 +8,9 @@ https://ammedia.siar.us/ammedia/live/playlist.m3u8
 #EXTINF:-1 tvg-chno="004" tvg-id="AnimalPlanet.id" tvg-logo="https://logowik.com/content/uploads/images/animal-planet4122.jpg" group-title="Alam dan Sekitarnya",Animal Planet
 https://cdn09jtedge.indihometv.com/joss/194/animalplanet/index.m3u8
 #EXTINF:-1 tvg-chno="005" tvg-id="Animax.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/36BB0572-D313-4716-816C-042AA4D6B842.png/revision/latest?cb=20230226180856" group-title="Anime",Animax
-https://cdn09jtedge.indihometv.com/joss/130/animax/index.m3u8
+https://streaming.indihometv.com/joss/130/animax/index.m3u8
 #EXTINF:-1 tvg-chno="006" tvg-id="ANTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/512px-Antv_logo.svg.png" group-title="Nasional",ANTV
-https://streaming.indihometv.com/joss/130/antv/playlist.m3u8
+https://streaming.indihometv.com/joss/130/antv/index.m3u8
 #EXTINF:-1 tvg-chno="007" tvg-id="AsianFoodNetwork.id" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/99/Asian_Food_Network_logo_b%E1%BA%A3n_3.png/revision/latest?cb=20240707132512&path-prefix=vi" group-title="Kuliner",Asian Food Network
 https://cdn09jtedge.indihometv.com/joss/133/afc/index.m3u8
 #EXTINF:-1 tvg-chno="008" tvg-id="BalikpapanTV.id" tvg-logo="https://i.imgur.com/P3whqna.png" group-title="Daerah",Balikpapan TV
