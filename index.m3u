@@ -233,7 +233,7 @@ https://streaming.indihometv.com/atm/hlsv3/useeprime/index.m3u8
 https://streaming.indihometv.com/atm/hlsv3/antara/index.m3u8
 #EXTINF:-1 tvg-chno="135" tvg-id="ATV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5e/Logo_Agropolitan_TV_2022.png" group-title="Entertainment",ATV
 https://streaming.indihometv.com/atm/hlsv3/atv/index.m3u8
-#EXTINF:-1 tvg-chno="136" tvg-id="IDX.id" tvg-logo="https://i.imgur.com/xPvrcsr.png" group-title="Berita",IDX
+#EXTINF:-1 tvg-chno="136" tvg-id="IDX.id" tvg-logo="https://i.imgur.com/xPvrcsr.png" group-title="Bisnis",IDX
 https://streaming.indihometv.com/atm/hlsv3/idx/index.m3u8
 #EXTINF:-1 tvg-chno="137" tvg-id="Inews.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/inews.png?raw=true" group-title="Berita", Inews
 https://streaming.indihometv.com/atm/hlsv3/inews/index.m3u8
