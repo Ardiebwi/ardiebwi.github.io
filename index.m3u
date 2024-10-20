@@ -21,7 +21,7 @@ http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
 https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
 #EXTINF:-1 tvg-chno="011" tvg-id="BioskopIndonesia.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Bioskop_ind.png/revision/latest?cb=20190206163334" group-title="Film dan Drama",Bioskop Indonesia
 https://streaming.indihometv.com/joss/130/bioskopindonesia/index.m3u8
-#EXTINF:-1 tvg-chno="012" tvg-id="BTV.id" tvg-logo="https://i.imgur.com/fdygcVx.png" group-title="Berita",BTV
+#EXTINF:-1 tvg-chno="012" tvg-id="BeritaSatu.id" tvg-logo="https://i.imgur.com/fdygcVx.png" group-title="Berita",Berita Satu
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 #EXTINF:-1 tvg-chno="013" tvg-id="BungoTV.id" tvg-logo="https://i.imgur.com/OrCrtDA.png" group-title="Daerah",Bungo TV
 https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
