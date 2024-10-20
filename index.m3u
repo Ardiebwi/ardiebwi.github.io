@@ -227,3 +227,17 @@ http://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8?app_type=web&amp;useri
 https://streaming.indihometv.com/joss/133/beib1/index.m3u8
 #EXTINF:-1 tvg-chno="122" tvg-id="SPOTV2.id" tvg-logo="" group-title="Olahraga",SPOTV2
 https://streaming.indihometv.com/joss/133/beib2/index.m3u8
+#EXTINF:-1 tvg-chno="133" tvg-id="AllPlayEnt.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/AllPlay_Entertainment.png" group-title="Entertainment",All Play Entertainment
+https://streaming.indihometv.com/atm/hlsv3/useeprime/index.m3u8
+#EXTINF:-1 tvg-chno="134" tvg-id="Antara.id" tvg-logo="https://www.sobatku.co.id/wp-content/uploads/2019/03/Logo-ANTARANews.png" group-title="Nasional",Antara
+https://streaming.indihometv.com/atm/hlsv3/antara/index.m3u8
+#EXTINF:-1 tvg-chno="135" tvg-id="ATV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5e/Logo_Agropolitan_TV_2022.png" group-title="Entertainment",ATV
+https://streaming.indihometv.com/atm/hlsv3/atv/index.m3u8
+#EXTINF:-1 tvg-chno="136" tvg-id="IDX.id" tvg-logo="https://i.imgur.com/xPvrcsr.png" group-title="Berita",IDX
+https://streaming.indihometv.com/atm/hlsv3/idx/index.m3u8
+#EXTINF:-1 tvg-chno="137" tvg-id="Inews.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/inews.png?raw=true" group-title="Berita", Inews
+https://streaming.indihometv.com/atm/hlsv3/inews/index.m3u8
+#EXTINF:-1 tvg-chno="138" tvg-id="Indosiar.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Indosiar_Logo_2013.png/revision/latest/scale-to-width-down/250?cb=20201025081108" group-title="Nasional", Indosiar
+https://streaming.indihometv.com/atm/hlsv3/indosiar/index.m3u8
+#EXTINF:-1 tvg-chno="139" tvg-id="SCTV.id" tvg-logo="https://www.pngwing.com/en/free-png-yhslo" group-title="Nasional",SCTV
+https://streaming.indihometv.com/atm/hlsv3/sctv/index.m3u8
