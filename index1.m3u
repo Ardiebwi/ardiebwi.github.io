@@ -7,7 +7,7 @@ https://tv.aliman.id/aliman/live.m3u8
 https://ammedia.siar.us/ammedia/live/playlist.m3u8
 #EXTINF:-1 tvg-chno="004" tvg-id="AnimalPlanet.id" tvg-logo="https://logowik.com/content/uploads/images/animal-planet4122.jpg" group-title="Alam dan Sekitarnya",Animal Planet
 https://streaming.indihometv.com/joss/194/animalplanet/index.m3u8
-#EXTINF:-1 tvg-chno="005" tvg-id="Animax.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/36BB0572-D313-4716-816C-042AA4D6B842.png/revision/latest?cb=20230226180856" group-title="Anime",Animax
+#EXTINF:-1 tvg-chno="005" tvg-id="Animax.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/36BB0572-D313-4716-816C-042AA4D6B842.png/revision/latest?cb=20230226180856" group-title="Anak",Animax
 https://streaming.indihometv.com/joss/130/animax/index.m3u8
 #EXTINF:-1 tvg-chno="006" tvg-id="ANTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/512px-Antv_logo.svg.png" group-title="Nasional",ANTV
 https://streaming.indihometv.com/joss/130/antv/index.m3u8
@@ -25,7 +25,7 @@ https://streaming.indihometv.com/joss/130/bioskopindonesia/index.m3u8
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 #EXTINF:-1 tvg-chno="013" tvg-id="BungoTV.id" tvg-logo="https://i.imgur.com/OrCrtDA.png" group-title="Daerah",Bungo TV
 https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
-#EXTINF:-1 tvg-chno="014" tvg-id="CartoonNetwork.id" tvg-logo="https://blog.logomyway.com/wp-content/uploads/2021/09/Cartoon-Network-logo.png" group-title="Anak-anak",Cartoon Network
+#EXTINF:-1 tvg-chno="014" tvg-id="CartoonNetwork.id" tvg-logo="https://blog.logomyway.com/wp-content/uploads/2021/09/Cartoon-Network-logo.png" group-title="Anak",Cartoon Network
 https://streaming.indihometv.com/joss/194/cartoonnetwork/index.m3u8
 #EXTINF:-1 tvg-chno="015" tvg-id="CelestialMovies.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Celestial_pic_ch52.jpg/revision/latest/scale-to-width-down/250?cb=20120620031244" group-title="Film dan Drama",Celestial Movies
 https://streaming.indihometv.com/joss/130/celestialmovie/index.m3u8
@@ -49,9 +49,9 @@ https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
 https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
 #EXTINF:-1 tvg-chno="025" tvg-id="Discovery.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Discovery_Channel_2008.png/revision/latest?cb=20091118145933" group-title="Gaya Hidup",Discovery
 https://streaming.indihometv.com/joss/133/disco/index.m3u8
-#EXTINF:-1 tvg-chno="026" tvg-id="DreamWorks.id" tvg-logo="https://logos-world.net/wp-content/uploads/2020/12/DreamWorks-Animation-Logo.png" group-title="Anak-anak",DreamWorks
+#EXTINF:-1 tvg-chno="026" tvg-id="DreamWorks.id" tvg-logo="https://logos-world.net/wp-content/uploads/2020/12/DreamWorks-Animation-Logo.png" group-title="Anak",DreamWorks
 https://streaming.indihometv.com/joss/133/dreamworks/index.m3u8
-#EXTINF:-1 tvg-chno="027" tvg-id="DuniaAnak.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/Dunia_Anak_Transvision.png/revision/latest?cb=20190206163728" group-title="Anak-anak",Dunia Anak
+#EXTINF:-1 tvg-chno="027" tvg-id="DuniaAnak.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/Dunia_Anak_Transvision.png/revision/latest?cb=20190206163728" group-title="Anak",Dunia Anak
 https://streaming.indihometv.com/joss/130/duniaanak/index.m3u8
 #EXTINF:-1 tvg-chno="028" tvg-id="DuniaGamesTV.id" tvg-logo="https://i.imgur.com/SSDguTa.png" group-title="Olahraga",Dunia Games TV
 https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6854467f-52fe-48ee-9822-00233c678709)/index.m3u8
@@ -71,7 +71,7 @@ https://v3.siar.us/ficomchannel/live/playlist.m3u8
 https://streaming.indihometv.com/joss/133/fightsport/index.m3u8
 #EXTINF:-1 tvg-chno="036" tvg-id="Flik.id" tvg-logo="https://imgur.com/gBZNgy4.png" group-title="Film dan Drama",Flik
 https://streaming.indihometv.com/joss/133/flik/index.m3u8
-#EXTINF:-1 tvg-chno="037" tvg-id="FunPlanet.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Fun_Planet.png" group-title="Anak-anak",Fun Planet
+#EXTINF:-1 tvg-chno="037" tvg-id="FunPlanet.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Fun_Planet.png" group-title="Anak",Fun Planet
 https://streaming.indihometv.com/joss/134/indikids/index.m3u8
 #EXTINF:-1 tvg-chno="038" tvg-id="Galaxy.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Galaxy_Indonesia_TV.PNG/revision/latest?cb=20190614114528" group-title="Film dan Drama",Galaxy
 https://streaming.indihometv.com/joss/133/galaxy/index.m3u8
@@ -153,7 +153,7 @@ https://streaming.indihometv.com/joss/130/muitv/index.m3u8
 https://streaming.indihometv.com/joss/134/musikindo720/index.m3u8
 #EXTINF:-1 tvg-chno="083" tvg-id="NET.id" tvg-logo="https://i.imgur.com/RPT8O12.png" group-title="Nasional",NET.
 https://streaming.indihometv.com/joss/133/net/index.m3u8
-#EXTINF:-1 tvg-chno="084" tvg-id="NickJr.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/Nick_Jr._Splat_2023.png/revision/latest?cb=20231122165643" group-title="Anak-anak",Nick Jr
+#EXTINF:-1 tvg-chno="084" tvg-id="NickJr.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/Nick_Jr._Splat_2023.png/revision/latest?cb=20231122165643" group-title="Anak",Nick Jr
 https://streaming.indihometv.com/joss/130/nickjr/index.m3u8
 #EXTINF:-1 tvg-chno="086" tvg-id="NusantaraTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Nusantara_TV.png" group-title="Nasional",Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
