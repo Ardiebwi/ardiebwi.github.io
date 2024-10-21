@@ -81,7 +81,7 @@ https://streaming.indihometv.com/joss/133/galaxypremium/index.m3u8
 https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
 #EXTINF:-1 tvg-chno="042" tvg-id="HGTV.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/HGTV_-_Home_%26_Garden_Television_Network.png/revision/latest?cb=20210421155115" group-title="Film",HGTV
 https://streaming.indihometv.com/joss/133/hgtv/index.m3u8
-#EXTINF:-1 tvg-chno="043" tvg-id="History.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/History_2021.png/revision/latest?cb=20240302050750" group-title="Sejarah",History
+#EXTINF:-1 tvg-chno="043" tvg-id="History.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/History_2021.png/revision/latest?cb=20240302050750" group-title="Pengetahuan",History
 https://streaming.indihometv.com/joss/133/history/index.m3u8
 #EXTINF:-1 tvg-chno="044" tvg-id="Hits.id" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/ee/HITS_%28HITS_Movies%29.png/revision/latest?cb=20221225102427&path-prefix=vi" group-title="Film",Hits
 https://streaming.indihometv.com/joss/133/hits/index.m3u8
