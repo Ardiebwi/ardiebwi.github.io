@@ -39,7 +39,7 @@ https://streaming.indihometv.com/joss/130/cdrama/index.m3u8
 https://streaming.indihometv.com/joss/130/chinesedrama/index.m3u8
 #EXTINF:-1 tvg-chno="020" group-title="Berita" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/1200px-CNN_International_logo.svg.png",CNN INDONESIA
 https://streaming.indihometv.com/joss/133/cnnindonesia/index.m3u8
-#EXTINF:-1 tvg-chno="021" tvg-id="CNBCIndonesia.id" tvg-logo="https://i.imgur.com/bUfeG7Y.png" group-title="Berita",CNBC Indonesia
+#EXTINF:-1 tvg-chno="021" tvg-id="CNBCIndonesia.id" tvg-logo="https://i.imgur.com/bUfeG7Y.png" group-title="Bisnis dan Ekonomi",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 #EXTINF:-1 tvg-chno="022" tvg-id="DAAITV.id" tvg-logo="https://i.imgur.com/YC7JCHo.png" group-title="Religi",DAAI TV
 https://streaming.indihometv.com/joss/134/daaitv/index.m3u8
@@ -95,7 +95,7 @@ https://streaming.indihometv.com/joss/130/horee/index.m3u8
 https://streaming.indihometv.com/joss/133/horizonsport/index.m3u8
 #EXTINF:-1 tvg-chno="049" tvg-id="HumaBetangTV.id" tvg-logo="https://i.imgur.com/xBTqOEu.png" group-title="Daerah",Huma Betang TV
 https://v3.siar.us/humabetangtv/live/playlist.m3u8
-#EXTINF:-1 tvg-chno="050" tvg-id="IDTV.id" tvg-logo="https://i.postimg.cc/6pycF7Vx/300px-IDTV.png" group-title="Bisnis",IDTV
+#EXTINF:-1 tvg-chno="050" tvg-id="IDTV.id" tvg-logo="https://i.postimg.cc/6pycF7Vx/300px-IDTV.png" group-title="Bisnis dan Ekonomi",IDTV
 https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 #EXTINF:-1 tvg-chno="052" tvg-id="IKonser.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/I-Konser.png" group-title="Musik",I Konser
 https://streaming.indihometv.com/joss/130/ikonser/index.m3u8
