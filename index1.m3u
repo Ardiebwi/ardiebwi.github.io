@@ -5,7 +5,7 @@ https://e.siar.us/live/aktv.m3u8
 https://tv.aliman.id/aliman/live.m3u8
 #EXTINF:-1 tvg-chno="003" tvg-id="AlWafaTarim.id" tvg-logo="https://i.ibb.co/3yfMjmf/logo-3.png" group-title="Religi",Al Wafa Tarim
 https://ammedia.siar.us/ammedia/live/playlist.m3u8
-#EXTINF:-1 tvg-chno="004" tvg-id="AnimalPlanet.id" tvg-logo="https://logowik.com/content/uploads/images/animal-planet4122.jpg" group-title="Alam dan Sekitarnya",Animal Planet
+#EXTINF:-1 tvg-chno="004" tvg-id="AnimalPlanet.id" tvg-logo="https://logowik.com/content/uploads/images/animal-planet4122.jpg" group-title="Pengetahuan",Animal Planet
 https://streaming.indihometv.com/joss/194/animalplanet/index.m3u8
 #EXTINF:-1 tvg-chno="005" tvg-id="Animax.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/36BB0572-D313-4716-816C-042AA4D6B842.png/revision/latest?cb=20230226180856" group-title="Anak",Animax
 https://streaming.indihometv.com/joss/130/animax/index.m3u8
@@ -125,9 +125,9 @@ https://streaming.indihometv.com/joss/133/kompastv/index.m3u8
 https://streaming.indihometv.com/joss/134/lifetime/index.m3u8
 #EXTINF:-1 tvg-chno="067" tvg-id="LingkarTV.id" tvg-logo="https://lingkartv.com/assets/img/logo-square.png" group-title="Nasional",Lingkar TV
 https://lingkartv.my.id/hls/lingkartv.m3u8
-#EXTINF:-1 tvg-chno="068" tvg-id="Lingua.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/Lingua_Channel.png/revision/latest?cb=20210115170811" group-title="Pendidikan",Lingua
+#EXTINF:-1 tvg-chno="068" tvg-id="Lingua.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/Lingua_Channel.png/revision/latest?cb=20210115170811" group-title="Pengetahuan",Lingua
 https://streaming.indihometv.com/joss/133/lingua/index.m3u8
-#EXTINF:-1 tvg-chno="069" tvg-id="LoveNature.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/Love_Nature_TV.png/revision/latest?cb=20151125134652" group-title="Alam dan Sekitarnya",Love Nature
+#EXTINF:-1 tvg-chno="069" tvg-id="LoveNature.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/Love_Nature_TV.png/revision/latest?cb=20151125134652" group-title="Pengetahuan",Love Nature
 https://streaming.indihometv.com/joss/194/lovenature/index.m3u8
 #EXTINF:-1 tvg-chno="070" tvg-id="MaduTV.id" tvg-logo="https://i.imgur.com/cKpgbgW.png" group-title="Daerah",Madu TV
 https://re1.siar.us/madutv/hd720/playlist.m3u8
