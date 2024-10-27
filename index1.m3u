@@ -67,7 +67,7 @@ https://streaming.indihometv.com/joss/134/eatgo/index.m3u8
 https://ythls.armelin.one/channel/UCWcErqFw28UlHluawiWLO2g.m3u8
 #EXTINF:-1 tvg-chno="034" tvg-id="FicomChannel.id" tvg-logo="https://i.ibb.co/nqX0CBx/f-1.png" group-title="Entertainment",Ficom Channel
 https://v3.siar.us/ficomchannel/live/playlist.m3u8
-#EXTINF:-1 tvg-chno="035" tvg-id="FightSport.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/FIGHT_SPORTS_2018.png/revision/latest?cb=20191026180443" group-title="Olahraga",Fight Sport
+#EXTINF:-1 tvg-chno="035" tvg-id="FightSports.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/FIGHT_SPORTS_2018.png/revision/latest?cb=20191026180443" group-title="Olahraga",Fight Sports
 https://streaming.indihometv.com/joss/133/fightsport/index.m3u8
 #EXTINF:-1 tvg-chno="036" tvg-id="Flik.id" tvg-logo="https://imgur.com/gBZNgy4.png" group-title="Film",Flik
 https://streaming.indihometv.com/joss/133/flik/index.m3u8
@@ -91,7 +91,7 @@ https://streaming.indihometv.com/joss/134/hitsnow/index.m3u8
 https://streaming.indihometv.com/joss/133/hitsmovie/index.m3u8
 #EXTINF:-1 tvg-chno="047" tvg-id="Horee.id" tvg-logo="https://i.imgur.com/S4aoHg8.png" group-title="Anak",Horee!
 https://streaming.indihometv.com/joss/130/horee/index.m3u8
-#EXTINF:-1 tvg-chno="048" tvg-id="HorizonSport.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/HORIZONSPORTS.jpg/revision/latest?cb=20191030033922" group-title="Olahraga",Horizon Sport
+#EXTINF:-1 tvg-chno="048" tvg-id="HorizonSports.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/HORIZONSPORTS.jpg/revision/latest?cb=20191030033922" group-title="Olahraga",Horizon Sports
 https://streaming.indihometv.com/joss/133/horizonsport/index.m3u8
 #EXTINF:-1 tvg-chno="049" tvg-id="HumaBetangTV.id" tvg-logo="https://i.imgur.com/xBTqOEu.png" group-title="Daerah",Huma Betang TV
 https://v3.siar.us/humabetangtv/live/playlist.m3u8
@@ -133,7 +133,7 @@ https://streaming.indihometv.com/joss/194/lovenature/index.m3u8
 https://re1.siar.us/madutv/hd720/playlist.m3u8
 #EXTINF:-1 tvg-chno="071" tvg-id="MagnaChannel.id" tvg-logo="https://i.imgur.com/tfJo0SO.png" group-title="Nasional",Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="072" tvg-id="MAXStream.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_MAX_horizontal_on_white_.jpg" group-title="Nasional",MAX Stream
+#EXTINF:-1 tvg-chno="072" tvg-id="MAXStream.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_MAX_horizontal_on_white_.jpg" group-title="Nasional",MAXSTREAM
 https://streaming.indihometv.com/joss/194/maxstream/index.m3u8
 #EXTINF:-1 tvg-chno="073" tvg-id="MentariTV.id" tvg-logo="https://logowik.com/content/uploads/images/mentari-tv2070.logowik.com.webp" group-title="Nasional",Mentari TV
 https://streaming.indihometv.com/joss/134/mentaritv/index.m3u8
