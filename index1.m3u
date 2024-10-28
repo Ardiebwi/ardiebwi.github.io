@@ -155,6 +155,8 @@ https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 https://streaming.indihometv.com/joss/130/muitv/index.m3u8
 #EXTINF:-1 tvg-chno="081" tvg-id="MusikIndo.id" tvg-logo="https://imgur.com/DqGVYUf.png" group-title="Musik",Musik Indo
 https://streaming.indihometv.com/joss/134/musikindo720/index.m3u8
+#EXTINF:-1 tvg-chno="135" tvg-id="NBATV.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1e/Nbatv.page.png/revision/latest/scale-to-width-down/250?cb=20170731002709"  group-title="Olahraga",NBA TV
+https://streaming.indihometv.com/joss/133/nba/index.m3u8
 #EXTINF:-1 tvg-chno="083" tvg-id="NET.id" tvg-logo="https://i.imgur.com/RPT8O12.png" group-title="Nasional",NET.
 https://streaming.indihometv.com/joss/133/net/index.m3u8
 #EXTINF:-1 tvg-chno="084" tvg-id="NickJr.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/Nick_Jr._Splat_2023.png/revision/latest?cb=20231122165643" group-title="Anak",Nick Jr
