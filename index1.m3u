@@ -125,7 +125,7 @@ https://63b2dc7196c38.streamlock.net:1937/ch2/myStream/playlist.m3u8
 https://5bf7b725107e5.streamlock.net/kstv/kstv/playlist.m3u8
 #EXTINF:-1 tvg-chno="065" tvg-id="KompasTV.id" tvg-logo="https://i.imgur.com/bD6UHeZ.png" group-title="Berita",Kompas TV
 https://streaming.indihometv.com/joss/133/kompastv/index.m3u8
-#EXTINF:-1 tvg-chno="066" tvg-id="LifeTime.id" tvg-logo="https://logowik.com/content/uploads/images/lifetime-tv1247.jpg" group-title="Gaya Hidup",Life Time
+#EXTINF:-1 tvg-chno="066" tvg-id="LifeTime.id" tvg-logo="https://logowik.com/content/uploads/images/lifetime-tv1247.jpg" group-title="Gaya Hidup",Lifetime
 https://streaming.indihometv.com/joss/134/lifetime/index.m3u8
 #EXTINF:-1 tvg-chno="067" tvg-id="LingkarTV.id" tvg-logo="https://lingkartv.com/assets/img/logo-square.png" group-title="Nasional",Lingkar TV
 https://lingkartv.my.id/hls/lingkartv.m3u8
