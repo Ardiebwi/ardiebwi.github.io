@@ -83,7 +83,7 @@ https://streaming.indihometv.com/joss/133/galaxy/index.m3u8
 https://streaming.indihometv.com/joss/133/galaxypremium/index.m3u8
 #EXTINF:-1 tvg-chno="040" tvg-id="Garuda.tv" tvg-logo="https://aksara.biz.id/wp-content/uploads/2023/09/sikopi.webp" group-title="Nasional",Garuda TV
 https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
-#EXTINF:-1 tvg-chno="042" tvg-id="HGTV.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/HGTV_-_Home_%26_Garden_Television_Network.png/revision/latest?cb=20210421155115" group-title="Film",HGTV
+#EXTINF:-1 tvg-chno="042" tvg-id="HGTV.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/HGTV_-_Home_%26_Garden_Television_Network.png/revision/latest?cb=20210421155115" group-title="Hiburan",HGTV
 https://streaming.indihometv.com/joss/133/hgtv/index.m3u8
 #EXTINF:-1 tvg-chno="043" tvg-id="History.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/History_2021.png/revision/latest?cb=20240302050750" group-title="Pengetahuan",History
 https://streaming.indihometv.com/joss/133/history/index.m3u8
