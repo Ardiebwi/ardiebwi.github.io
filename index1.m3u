@@ -229,3 +229,5 @@ http://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8?app_type=web&amp;useri
 https://streaming.indihometv.com/joss/133/beib1/index.m3u8
 #EXTINF:-1 tvg-chno="122" tvg-id="SPOTV2.id" tvg-logo="" group-title="Olahraga",SPOTV2
 https://streaming.indihometv.com/joss/133/beib2/index.m3u8
+#EXTINF:-1 tvg-chno="133" tvg-id="AllPlayEnt.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/AllPlay_Entertainment.png" group-title="Entertainment",All Play Entertainment
+https://streaming.indihometv.com/atm/hlsv3/useeprime/index.m3u8
