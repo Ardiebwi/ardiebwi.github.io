@@ -51,7 +51,7 @@ https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
 https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
 #EXTINF:-1 tvg-chno="025" tvg-id="Discovery.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Discovery_Channel_2008.png/revision/latest?cb=20091118145933" group-title="Gaya Hidup",Discovery
 https://streaming.indihometv.com/joss/133/disco/index.m3u8
-#EXTINF:-1 tvg-chno="134" tvg-id="DiscoveryAsia.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ef/Discovery_Asia_logo.svg/revision/latest?cb=20240628061134" group-title="Gaya Hidup",Discovery Asia
+#EXTINF:-1 tvg-chno="134" tvg-id="DiscoveryAsia.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Discovery_Channel_2008.png/revision/latest?cb=20091118145933" group-title="Gaya Hidup",Discovery Asia
 https://streaming.indihometv.com/joss/194/discoveryasia/index.m3u8
 #EXTINF:-1 tvg-chno="026" tvg-id="DreamWorks.id" tvg-logo="https://logos-world.net/wp-content/uploads/2020/12/DreamWorks-Animation-Logo.png" group-title="Anak",DreamWorks
 https://streaming.indihometv.com/joss/133/dreamworks/index.m3u8
@@ -63,7 +63,7 @@ https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6854467f-52fe-
 https://streaming.indihometv.com/joss/130/dunialain/index.m3u8
 #EXTINF:-1 tvg-chno="030" tvg-id="DutaTV.id" tvg-logo="https://i.imgur.com/B4JW54M.png" group-title="Daerah",Duta TV
 https://dutatv.siar.us/dutatv/live/playlist.m3u8
-#EXTINF:-1 tvg-chno="131" tvg-id="DWTV.id" tvg-logo="" group-title="Gaya Hidup",DW TV
+#EXTINF:-1 tvg-chno="131" tvg-id="DWTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" group-title="Gaya Hidup",DW TV
 https://streaming.indihometv.com/joss/134/dwtv/index.m3u8
 #EXTINF:-1 tvg-chno="031" tvg-id="Eat&Go.id" tvg-logo="https://imgur.com/K2DtEk3.png" group-title="Entertainment",Eat & Go
 https://streaming.indihometv.com/joss/134/eatgo/index.m3u8
