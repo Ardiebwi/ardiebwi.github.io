@@ -41,6 +41,8 @@ https://streaming.indihometv.com/joss/130/chinesedrama/index.m3u8
 https://streaming.indihometv.com/joss/133/cnnindonesia/index.m3u8
 #EXTINF:-1 tvg-chno="021" tvg-id="CNBCIndonesia.id" tvg-logo="https://i.imgur.com/bUfeG7Y.png" group-title="Berita",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+#EXTINF:-1 tvg-chno="133" tvg-id="Curiosity.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f7/Curiosity_Channel_3.png/revision/latest/scale-to-width-down/250?cb=20230331100706" group-title="Gaya Hidup",Curiosity
+https://streaming.indihometv.com/joss/194/curiosity/index.m3u8
 #EXTINF:-1 tvg-chno="022" tvg-id="DAAITV.id" tvg-logo="https://i.imgur.com/YC7JCHo.png" group-title="Dakwah",DAAI TV
 https://streaming.indihometv.com/joss/134/daaitv/index.m3u8
 #EXTINF:-1 tvg-chno="023" tvg-id="DhammaTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/63/Dhamma_TV_baru.png" group-title="Dakwah",Dhamma TV
@@ -49,6 +51,8 @@ https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
 https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
 #EXTINF:-1 tvg-chno="025" tvg-id="Discovery.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Discovery_Channel_2008.png/revision/latest?cb=20091118145933" group-title="Gaya Hidup",Discovery
 https://streaming.indihometv.com/joss/133/disco/index.m3u8
+#EXTINF:-1 tvg-chno="134" tvg-id="DiscoveryAsia.id" tvg-logo="" group-title="Gaya Hidup",Discovery Asia
+https://streaming.indihometv.com/joss/194/discoveryasia/index.m3u8
 #EXTINF:-1 tvg-chno="026" tvg-id="DreamWorks.id" tvg-logo="https://logos-world.net/wp-content/uploads/2020/12/DreamWorks-Animation-Logo.png" group-title="Anak",DreamWorks
 https://streaming.indihometv.com/joss/133/dreamworks/index.m3u8
 #EXTINF:-1 tvg-chno="027" tvg-id="DuniaAnak.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/Dunia_Anak_Transvision.png/revision/latest?cb=20190206163728" group-title="Anak",Dunia Anak
