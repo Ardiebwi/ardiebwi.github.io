@@ -71,6 +71,8 @@ https://dutatv.siar.us/dutatv/live/playlist.m3u8
 https://streaming.indihometv.com/joss/134/dwtv/index.m3u8
 #EXTINF:-1 tvg-chno="031" tvg-id="Eat&Go.id" tvg-logo="https://imgur.com/K2DtEk3.png" group-title="Entertainment",Eat & Go
 https://streaming.indihometv.com/joss/134/eatgo/index.m3u8
+#EXTINF:-1 tvg-chno="138" tvg-id="EURONEWS.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Euronews._2016_logo.png" group-title="Berita",EURONEWS
+https://streaming.indihometv.com/joss/134/euronews/index.m3u8
 #EXTINF:-1 tvg-chno="033" tvg-id="FatwaTV.id" tvg-logo="https://i.imgur.com/FcJ6VMT.png" group-title="Dakwah",Fatwa TV
 https://ythls.armelin.one/channel/UCWcErqFw28UlHluawiWLO2g.m3u8
 #EXTINF:-1 tvg-chno="034" tvg-id="FicomChannel.id" tvg-logo="https://i.ibb.co/nqX0CBx/f-1.png" group-title="Entertainment",Ficom Channel
