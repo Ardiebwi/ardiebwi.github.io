@@ -41,10 +41,14 @@ https://streaming.indihometv.com/joss/130/chinesedrama/index.m3u8
 https://streaming.indihometv.com/joss/133/cnnindonesia/index.m3u8
 #EXTINF:-1 tvg-chno="021" tvg-id="CNBCIndonesia.id" tvg-logo="https://i.imgur.com/bUfeG7Y.png" group-title="Berita",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+#EXTINF:-1 tvg-chno="136" tvg-id="Crime+Investigation.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" group-title="Pengetahuan",Crime + Investigation
+https://streaming.indihometv.com/joss/133/crimeinvestigation/index.m3u8
 #EXTINF:-1 tvg-chno="133" tvg-id="Curiosity.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f7/Curiosity_Channel_3.png/revision/latest/scale-to-width-down/250?cb=20230331100706" group-title="Gaya Hidup",Curiosity
 https://streaming.indihometv.com/joss/194/curiosity/index.m3u8
 #EXTINF:-1 tvg-chno="022" tvg-id="DAAITV.id" tvg-logo="https://i.imgur.com/YC7JCHo.png" group-title="Dakwah",DAAI TV
 https://streaming.indihometv.com/joss/134/daaitv/index.m3u8
+#EXTINF:-1 tvg-chno="137" tvg-id="DaVinci.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Da_Vinci_osb_2022.png/revision/latest/scale-to-width-down/250?cb=20230519121222" group-title="Pengetahuan",Da Vinci
+https://streaming.indihometv.com/joss/134/davinci/index.m3u8
 #EXTINF:-1 tvg-chno="023" tvg-id="DhammaTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/63/Dhamma_TV_baru.png" group-title="Dakwah",Dhamma TV
 https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
 #EXTINF:-1 tvg-chno="024" tvg-id="DhohoTV.id" tvg-logo="https://i.imgur.com/4Khyyfh.png" group-title="Daerah",Dhoho TV
