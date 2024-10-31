@@ -237,7 +237,7 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=ANIPLUS_HD
-#EXTINF:-1 tvg-chno="121" tvg-id="SPOTV.id" tvg-logo="" group-title="Olahraga",SPOTV
+#EXTINF:-1 tvg-chno="121" tvg-id="SPOTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/SPO_TV_logo.png" group-title="Olahraga",SPOTV
 https://streaming.indihometv.com/joss/133/beib1/index.m3u8
-#EXTINF:-1 tvg-chno="122" tvg-id="SPOTV2.id" tvg-logo="" group-title="Olahraga",SPOTV 2
+#EXTINF:-1 tvg-chno="122" tvg-id="SPOTV2.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/74/SPOTV2_logo.png/revision/latest?cb=20230507020818" group-title="Olahraga",SPOTV 2
 https://streaming.indihometv.com/joss/133/beib2/index.m3u8
