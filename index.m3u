@@ -237,7 +237,7 @@ https://cdn09jtedge.indihometv.com/atm/hlsv3/atv/atv.m3u8
 https://cdn09jtedge.indihometv.com/atm/hlsv3/idx/idx.m3u8
 #EXTINF:-1 tvg-chno="137" tvg-id="Inews.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/inews.png?raw=true" group-title="Berita", Inews
 https://cdn09jtedge.indihometv.com/atm/hlsv3/inews/inews.m3u8
-#EXTINF:-1 tvg-chno="138" tvg-id="Indosiar.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Indosiar_Logo_2013.png/revision/latest/scale-to-width-down/250?cb=20201025081108" group-title="Nasional", Indosiar
+#EXTINF:-1 tvg-chno="138" tvg-id="Indosiar.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Indosiar_Logo_2013.png/revision/latest/scale-to-width-down/250?cb=20201025081108" group-title="Nasional",Indosiar
 https://cdn09jtedge.indihometv.com/atm/hlsv3/indosiar/indosiar.m3u8
 #EXTINF:-1 tvg-chno="139" tvg-id="SCTV.id" tvg-logo="https://www.pngwing.com/en/free-png-yhslo" group-title="Nasional",SCTV
 https://cdn09jtedge.indihometv.com/atm/hlsv3/sctv/sctv.m3u8
