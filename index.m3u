@@ -6,13 +6,13 @@ https://tv.aliman.id/aliman/live.m3u8
 #EXTINF:-1 tvg-chno="003" tvg-id="AlWafaTarim.id" tvg-logo="https://i.ibb.co/3yfMjmf/logo-3.png" group-title="Religi",Al Wafa Tarim
 https://ammedia.siar.us/ammedia/live/playlist.m3u8
 #EXTINF:-1 tvg-chno="004" tvg-id="AnimalPlanet.id" tvg-logo="https://logowik.com/content/uploads/images/animal-planet4122.jpg" group-title="Alam dan Sekitarnya",Animal Planet
-https://streaming.indihometv.com/joss/194/animalplanet/index.m3u8
+https://cdn09jtedge.indihometv.com/joss/194/animalplanet/index.m3u8
 #EXTINF:-1 tvg-chno="005" tvg-id="Animax.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/36BB0572-D313-4716-816C-042AA4D6B842.png/revision/latest?cb=20230226180856" group-title="Anime",Animax
-https://streaming.indihometv.com/joss/130/animax/index.m3u8
+https://cdn09jtedge.indihometv.com/joss/130/animax/index.m3u8
 #EXTINF:-1 tvg-chno="006" tvg-id="ANTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/512px-Antv_logo.svg.png" group-title="Nasional",ANTV
-https://streaming.indihometv.com/joss/130/antv/index.m3u8
+https://cdn09jtedge.indihometv.com/joss/130/antv/index.m3u8
 #EXTINF:-1 tvg-chno="007" tvg-id="AsianFoodNetwork.id" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/99/Asian_Food_Network_logo_b%E1%BA%A3n_3.png/revision/latest?cb=20240707132512&path-prefix=vi" group-title="Kuliner",Asian Food Network
-https://streaming.indihometv.com/joss/133/afc/index.m3u8
+https://cdn09jtedge.indihometv.com/joss/133/afc/index.m3u8
 #EXTINF:-1 tvg-chno="008" tvg-id="BalikpapanTV.id" tvg-logo="https://i.imgur.com/P3whqna.png" group-title="Daerah",Balikpapan TV
 https://5bf7b725107e5.streamlock.net/btv/btv/playlist.m3u8
 #EXTINF:-1 tvg-chno="009" tvg-id="BandungTV.id" tvg-logo="https://i.postimg.cc/JzqSzcj9/200px-Logo-bdg-tv-2016.png" group-title="Daerah",Bandung TV
@@ -20,91 +20,91 @@ http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
 #EXTINF:-1 tvg-chno="010" tvg-id="BantenTV.id" tvg-logo="https://i.imgur.com/tbtF40p.png" group-title="Daerah",Banten TV
 https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
 #EXTINF:-1 tvg-chno="011" tvg-id="BioskopIndonesia.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Bioskop_ind.png/revision/latest?cb=20190206163334" group-title="Film dan Drama",Bioskop Indonesia
-https://streaming.indihometv.com/joss/130/bioskopindonesia/index.m3u8
+https://cdn09jtedge.indihometv.com/joss/130/bioskopindonesia/index.m3u8
 #EXTINF:-1 tvg-chno="012" tvg-id="BeritaSatu.id" tvg-logo="https://i.imgur.com/fdygcVx.png" group-title="Berita",Berita Satu
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 #EXTINF:-1 tvg-chno="013" tvg-id="BungoTV.id" tvg-logo="https://i.imgur.com/OrCrtDA.png" group-title="Daerah",Bungo TV
 https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
 #EXTINF:-1 tvg-chno="014" tvg-id="CartoonNetwork.id" tvg-logo="https://blog.logomyway.com/wp-content/uploads/2021/09/Cartoon-Network-logo.png" group-title="Anak-anak",Cartoon Network
-https://streaming.indihometv.com/joss/194/cartoonnetwork/index.m3u8
+https://cdn09jtedge.indihometv.com/joss/194/cartoonnetwork/index.m3u8
 #EXTINF:-1 tvg-chno="015" tvg-id="CelestialMovies.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Celestial_pic_ch52.jpg/revision/latest/scale-to-width-down/250?cb=20120620031244" group-title="Film dan Drama",Celestial Movies
-https://streaming.indihometv.com/joss/130/celestialmovie/index.m3u8
+https://cdn09jtedge.indihometv.com/joss/130/celestialmovie/index.m3u8
 #EXTINF:-1 tvg-chno="016" tvg-id="Cinema.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Cinemax_logo.png" group-title="Film dan Drama",Cinema
-https://streaming.indihometv.com/joss/134/cinemaworld/index.m3u8
+https://cdn09jtedge.indihometv.com/joss/134/cinemaworld/index.m3u8
 #EXTINF:-1 tvg-chno="017" tvg-id="CitraDangdut.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Citra_Dangdut_Logo_September_2019.png/revision/latest?cb=20191014051226" group-title="Musik",Citra Dangdut
-https://streaming.indihometv.com/joss/130/citradangdut/index.m3u8
+https://cdn09jtedge.indihometv.com/joss/130/citradangdut/index.m3u8
 #EXTINF:-1 tvg-chno="018" tvg-id="CitraDrama.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Citra_Drama.PNG/revision/latest?cb=20210307072503" group-title="Film dan Drama",Citra Drama
-https://streaming.indihometv.com/joss/130/cdrama/index.m3u8
+https://cdn09jtedge.indihometv.com/joss/130/cdrama/index.m3u8
 #EXTINF:-1 tvg-chno="019" tvg-id="ChineseDrama.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Chinese_Drama_TV.png" group-title="Film dan Drama",Chinese Drama
-https://streaming.indihometv.com/joss/130/chinesedrama/index.m3u8
+https://cdn09jtedge.indihometv.com/joss/130/chinesedrama/index.m3u8
 #EXTINF:-1 tvg-chno="020" group-title="Berita" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/1200px-CNN_International_logo.svg.png",CNN INDONESIA
-https://streaming.indihometv.com/joss/133/cnnindonesia/index.m3u8
+https://cdn09jtedge.indihometv.com/joss/133/cnnindonesia/index.m3u8
 #EXTINF:-1 tvg-chno="021" tvg-id="CNBCIndonesia.id" tvg-logo="https://i.imgur.com/bUfeG7Y.png" group-title="Berita",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 #EXTINF:-1 tvg-chno="022" tvg-id="DAAITV.id" tvg-logo="https://i.imgur.com/YC7JCHo.png" group-title="Religi",DAAI TV
-https://streaming.indihometv.com/joss/134/daaitv/index.m3u8
+https://cdn09jtedge.indihometv.com/joss/134/daaitv/index.m3u8
 #EXTINF:-1 tvg-chno="023" tvg-id="DhammaTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/63/Dhamma_TV_baru.png" group-title="Religi",Dhamma TV
 https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
 #EXTINF:-1 tvg-chno="024" tvg-id="DhohoTV.id" tvg-logo="https://i.imgur.com/4Khyyfh.png" group-title="Daerah",Dhoho TV
 https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
 #EXTINF:-1 tvg-chno="025" tvg-id="Discovery.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Discovery_Channel_2008.png/revision/latest?cb=20091118145933" group-title="Gaya Hidup",Discovery
-https://streaming.indihometv.com/joss/133/disco/index.m3u8
+https://cdn09jtedge.indihometv.com/joss/133/disco/index.m3u8
 #EXTINF:-1 tvg-chno="026" tvg-id="DreamWorks.id" tvg-logo="https://logos-world.net/wp-content/uploads/2020/12/DreamWorks-Animation-Logo.png" group-title="Anak-anak",DreamWorks
-https://streaming.indihometv.com/joss/133/dreamworks/index.m3u8
+https://cdn09jtedge.indihometv.com/joss/133/dreamworks/index.m3u8
 #EXTINF:-1 tvg-chno="027" tvg-id="DuniaAnak.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/Dunia_Anak_Transvision.png/revision/latest?cb=20190206163728" group-title="Anak-anak",Dunia Anak
-https://streaming.indihometv.com/joss/130/duniaanak/index.m3u8
+https://cdn09jtedge.indihometv.com/joss/130/duniaanak/index.m3u8
 #EXTINF:-1 tvg-chno="028" tvg-id="DuniaGamesTV.id" tvg-logo="https://i.imgur.com/SSDguTa.png" group-title="Olahraga",Dunia Games TV
 https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6854467f-52fe-48ee-9822-00233c678709)/index.m3u8
 #EXTINF:-1 tvg-chno="029" tvg-id="DuniaLain.id" tvg-logo="https://imgur.com/W1tGNGi.png" group-title="Mistis",Dunia Lain
-https://streaming.indihometv.com/joss/130/dunialain/index.m3u8
+https://cdn09jtedge.indihometv.com/joss/130/dunialain/index.m3u8
 #EXTINF:-1 tvg-chno="030" tvg-id="DutaTV.id" tvg-logo="https://i.imgur.com/B4JW54M.png" group-title="Daerah",Duta TV
 https://dutatv.siar.us/dutatv/live/playlist.m3u8
 #EXTINF:-1 tvg-chno="131" tvg-id="DWTV.id" tvg-logo="" group-title="Gaya Hidup",DW TV
-https://streaming.indihometv.com/joss/134/dwtv/index.m3u8
+https://cdn09jtedge.indihometv.com/joss/134/dwtv/index.m3u8
 #EXTINF:-1 tvg-chno="031" tvg-id="Eat&Go.id" tvg-logo="https://imgur.com/K2DtEk3.png" group-title="Kuliner",Eat & Go
-https://streaming.indihometv.com/joss/134/eatgo/index.m3u8
+https://cdn09jtedge.indihometv.com/joss/134/eatgo/index.m3u8
 #EXTINF:-1 tvg-chno="033" tvg-id="FatwaTV.id" tvg-logo="https://i.imgur.com/FcJ6VMT.png" group-title="Religi",Fatwa TV
 https://ythls.armelin.one/channel/UCWcErqFw28UlHluawiWLO2g.m3u8
 #EXTINF:-1 tvg-chno="034" tvg-id="FicomChannel.id" tvg-logo="https://i.ibb.co/nqX0CBx/f-1.png" group-title="Entertainment",Ficom Channel
 https://v3.siar.us/ficomchannel/live/playlist.m3u8
 #EXTINF:-1 tvg-chno="035" tvg-id="FightSport.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/FIGHT_SPORTS_2018.png/revision/latest?cb=20191026180443" group-title="Olahraga",Fight Sport
-https://streaming.indihometv.com/joss/133/fightsport/index.m3u8
+https://cdn09jtedge.indihometv.com/joss/133/fightsport/index.m3u8
 #EXTINF:-1 tvg-chno="036" tvg-id="Flik.id" tvg-logo="https://imgur.com/gBZNgy4.png" group-title="Film dan Drama",Flik
-https://streaming.indihometv.com/joss/133/flik/index.m3u8
+https://cdn09jtedge.indihometv.com/joss/133/flik/index.m3u8
 #EXTINF:-1 tvg-chno="037" tvg-id="FunPlanet.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Fun_Planet.png" group-title="Anak-anak",Fun Planet
-https://streaming.indihometv.com/joss/134/indikids/index.m3u8
+https://cdn09jtedge.indihometv.com/joss/134/indikids/index.m3u8
 #EXTINF:-1 tvg-chno="038" tvg-id="Galaxy.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Galaxy_Indonesia_TV.PNG/revision/latest?cb=20190614114528" group-title="Film dan Drama",Galaxy
-https://streaming.indihometv.com/joss/133/galaxy/index.m3u8
+https://cdn09jtedge.indihometv.com/joss/133/galaxy/index.m3u8
 #EXTINF:-1 tvg-chno="039" tvg-id="GalaxyPremium.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Galaxy_Indonesia_TV.PNG/revision/latest?cb=20190614114528" group-title="Film dan Drama",Galaxy Premium
-https://streaming.indihometv.com/joss/133/galaxypremium/index.m3u8
+https://cdn09jtedge.indihometv.com/joss/133/galaxypremium/index.m3u8
 #EXTINF:-1 tvg-chno="040" tvg-id="Garuda.tv" tvg-logo="https://aksara.biz.id/wp-content/uploads/2023/09/sikopi.webp" group-title="Nasional",Garuda TV
 https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
 #EXTINF:-1 tvg-chno="042" tvg-id="HGTV.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/HGTV_-_Home_%26_Garden_Television_Network.png/revision/latest?cb=20210421155115" group-title="Film dan Drama",HGTV
-https://streaming.indihometv.com/joss/133/hgtv/index.m3u8
+https://cdn09jtedge.indihometv.com/joss/133/hgtv/index.m3u8
 #EXTINF:-1 tvg-chno="043" tvg-id="History.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/History_2021.png/revision/latest?cb=20240302050750" group-title="Sejarah",History
-https://streaming.indihometv.com/joss/133/history/index.m3u8
+https://cdn09jtedge.indihometv.com/joss/133/history/index.m3u8
 #EXTINF:-1 tvg-chno="044" tvg-id="Hits.id" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/ee/HITS_%28HITS_Movies%29.png/revision/latest?cb=20221225102427&path-prefix=vi" group-title="Film dan Drama",Hits
-https://streaming.indihometv.com/joss/133/hits/index.m3u8
+https://cdn09jtedge.indihometv.com/joss/133/hits/index.m3u8
 #EXTINF:-1 tvg-chno="045" tvg-id="HitsNow.id" tvg-logo="https://imgur.com/3jmzlgR.png" group-title="Musik",Hits Now
-https://streaming.indihometv.com/joss/134/hitsnow/index.m3u8
+https://cdn09jtedge.indihometv.com/joss/134/hitsnow/index.m3u8
 #EXTINF:-1 tvg-chno="046" tvg-id="HitsMovies.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/HITS_MOVIES_ASIA.png/revision/latest?cb=20210828003911" group-title="Film dan Drama",Hits Movies
-https://streaming.indihometv.com/joss/133/hitsmovie/index.m3u8
+https://cdn09jtedge.indihometv.com/joss/133/hitsmovie/index.m3u8
 #EXTINF:-1 tvg-chno="047" tvg-id="Horee.id" tvg-logo="https://i.imgur.com/S4aoHg8.png" group-title="Anak-anak",Horee!
-https://streaming.indihometv.com/joss/130/horee/index.m3u8
+https://cdn09jtedge.indihometv.com/joss/130/horee/index.m3u8
 #EXTINF:-1 tvg-chno="048" tvg-id="HorizonSport.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/HORIZONSPORTS.jpg/revision/latest?cb=20191030033922" group-title="Olahraga",Horizon Sport
-https://streaming.indihometv.com/joss/133/horizonsport/index.m3u8
+https://cdn09jtedge.indihometv.com/joss/133/horizonsport/index.m3u8
 #EXTINF:-1 tvg-chno="049" tvg-id="HumaBetangTV.id" tvg-logo="https://i.imgur.com/xBTqOEu.png" group-title="Daerah",Huma Betang TV
 https://v3.siar.us/humabetangtv/live/playlist.m3u8
 #EXTINF:-1 tvg-chno="050" tvg-id="IDTV.id" tvg-logo="https://i.postimg.cc/6pycF7Vx/300px-IDTV.png" group-title="Bisnis",IDTV
 https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 #EXTINF:-1 tvg-chno="052" tvg-id="IKonser.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/I-Konser.png" group-title="Musik",I Konser
-https://streaming.indihometv.com/joss/130/ikonser/index.m3u8
+https://cdn09jtedge.indihometv.com/joss/130/ikonser/index.m3u8
 #EXTINF:-1 tvg-chno="053" tvg-id="IMC.id" tvg-logo="https://imgur.com/jQFZJZ9.png" group-title="Film dan Drama",IMC
-https://streaming.indihometv.com/joss/130/imc/index.m3u8
+https://cdn09jtedge.indihometv.com/joss/130/imc/index.m3u8
 #EXTINF:-1 tvg-chno="054" tvg-id="Indonesiana.tv" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/indonesianatv.png?raw=true" group-title="Nasional",Indonesiana.TV
 https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index.m3u8
 #EXTINF:-1 tvg-chno="057" tvg-id="Insert.id" tvg-logo="https://imgur.com/Exuy0kR.png" group-title="Entertainment",Insert
-https://streaming.indihometv.com/joss/130/insert/index.m3u8
+https://cdn09jtedge.indihometv.com/joss/130/insert/index.m3u8
 #EXTINF:-1 tvg-chno="058" tvg-id="InspiraTV.id" tvg-logo="https://i.imgur.com/BF5orkg.png" group-title="Nasional",Inspira TV
 https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 #EXTINF:-1 tvg-chno="059" tvg-id="IzzahTV.id" tvg-logo="https://i.imgur.com/my7aqLc.png" group-title="Religi",Izzah TV
@@ -116,55 +116,55 @@ http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
 #EXTINF:-1 tvg-chno="062" tvg-id="JogjaTV.id" tvg-logo="https://i.imgur.com/m9ezMUz.png" group-title="Daerah",Jogja TV
 https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 #EXTINF:-1 tvg-chno="063" tvg-id="JTV.id" tvg-logo="https://i.imgur.com/mIDWIQk.png" group-title="Daerah",JTV
-https://streaming.indihometv.com/joss/134/jtv/index.m3u8
+https://cdn09jtedge.indihometv.com/joss/134/jtv/index.m3u8
 #EXTINF:-1 tvg-chno=""064 tvg-id="KilisuciTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e4/Kilisuci_TV_NEW_LOGO_2016.png" group-title="Daerah",Kilisuci TV
 https://5bf7b725107e5.streamlock.net/kstv/kstv/playlist.m3u8
 #EXTINF:-1 tvg-chno="065" tvg-id="KompasTV.id" tvg-logo="https://i.imgur.com/bD6UHeZ.png" group-title="Berita",Kompas TV
-https://streaming.indihometv.com/joss/133/kompastv/index.m3u8
+https://cdn09jtedge.indihometv.com/joss/133/kompastv/index.m3u8
 #EXTINF:-1 tvg-chno="066" tvg-id="LifeTime.id" tvg-logo="https://logowik.com/content/uploads/images/lifetime-tv1247.jpg" group-title="Gaya Hidup",Life Time
-https://streaming.indihometv.com/joss/134/lifetime/index.m3u8
+https://cdn09jtedge.indihometv.com/joss/134/lifetime/index.m3u8
 #EXTINF:-1 tvg-chno="067" tvg-id="LingkarTV.id" tvg-logo="https://lingkartv.com/assets/img/logo-square.png" group-title="Nasional",Lingkar TV
 https://lingkartv.my.id/hls/lingkartv.m3u8
 #EXTINF:-1 tvg-chno="068" tvg-id="Lingua.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/Lingua_Channel.png/revision/latest?cb=20210115170811" group-title="Pendidikan",Lingua
-https://streaming.indihometv.com/joss/133/lingua/index.m3u8
+https://cdn09jtedge.indihometv.com/joss/133/lingua/index.m3u8
 #EXTINF:-1 tvg-chno="069" tvg-id="LoveNature.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/Love_Nature_TV.png/revision/latest?cb=20151125134652" group-title="Alam dan Sekitarnya",Love Nature
-https://streaming.indihometv.com/joss/194/lovenature/index.m3u8
+https://cdn09jtedge.indihometv.com/joss/194/lovenature/index.m3u8
 #EXTINF:-1 tvg-chno="070" tvg-id="MaduTV.id" tvg-logo="https://i.imgur.com/cKpgbgW.png" group-title="Daerah",Madu TV
 https://re1.siar.us/madutv/hd720/playlist.m3u8
 #EXTINF:-1 tvg-chno="071" tvg-id="MagnaChannel.id" tvg-logo="https://i.imgur.com/tfJo0SO.png" group-title="Nasional",Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="072" tvg-id="MAXStream.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_MAX_horizontal_on_white_.jpg" group-title="Film dan Drama",MAX Stream
-https://streaming.indihometv.com/joss/194/maxstream/index.m3u8
+https://cdn09jtedge.indihometv.com/joss/194/maxstream/index.m3u8
 #EXTINF:-1 tvg-chno="073" tvg-id="MentariTV.id" tvg-logo="https://logowik.com/content/uploads/images/mentari-tv2070.logowik.com.webp" group-title="Nasional",Mentari TV
-https://streaming.indihometv.com/joss/134/mentaritv/index.m3u8
+https://cdn09jtedge.indihometv.com/joss/134/mentaritv/index.m3u8
 #EXTINF:-1 tvg-chno="074" tvg-id"MetroTV" tvg-logo="https://www.firstmedia.com/_next/image?url=https%3A%2F%2Fflmngr.firstmedia.com%2Ffiles%2Flogos%2Fchannels%2F11-NEWS%2FMetro%20TV%20SD-FirstMedia-Chl-7.jpg&w=1920&q=100" group-title="Berita",Metro TV
-https://streaming.indihometv.com/joss/133/metrotv/index.m3u8
+https://cdn09jtedge.indihometv.com/joss/133/metrotv/index.m3u8
 #EXTINF:-1 tvg-chno="075" tvg-id="MGSTV.id" tvg-logo="https://i.imgur.com/MYU7dsZ.png" group-title="Religi",MGSTV
 https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv.m3u8
 #EXTINF:-1 tvg-chno="077" tvg-id="MOJI.tv" tvg-logo="https://thumbor.prod.vidiocdn.com/v5PaORcp4FTzU8QX-yuZmh-qCpk=/784x441/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/206/moji-cover-7acc96.jpg" group-title="Nasional",MOJI
-https://streaming.indihometv.com/joss/134/ochannel/index.m3u8
+https://cdn09jtedge.indihometv.com/joss/134/ochannel/index.m3u8
 #EXTINF:-1 tvg-chno="078" tvg-id="Moonbug.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Moonbug2ndLogo.png" group-title="Internasional",Moonbug
-https://streaming.indihometv.com/joss/134/moonbug/index.m3u8
+https://cdn09jtedge.indihometv.com/joss/134/moonbug/index.m3u8
 #EXTINF:-1 tvg-chno="079" tvg-id="MQTV.id" tvg-logo="https://i.imgur.com/d8dQo6E.png" group-title="Religi",MQTV
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 #EXTINF:-1 tvg-chno="080" tvg-id="MUItv.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/TV_MUI.png/revision/latest?cb=20180923122528" group-title="Religi",MUI tv
-https://streaming.indihometv.com/joss/130/muitv/index.m3u8
+https://cdn09jtedge.indihometv.com/joss/130/muitv/index.m3u8
 #EXTINF:-1 tvg-chno="081" tvg-id="MusikIndo.id" tvg-logo="https://imgur.com/DqGVYUf.png" group-title="Musik",Musik Indo
-https://streaming.indihometv.com/joss/134/musikindo720/index.m3u8
+https://cdn09jtedge.indihometv.com/joss/134/musikindo720/index.m3u8
 #EXTINF:-1 tvg-chno="083" tvg-id="NET.id" tvg-logo="https://i.imgur.com/RPT8O12.png" group-title="Nasional",NET.
-https://streaming.indihometv.com/joss/133/net/index.m3u8
+https://cdn09jtedge.indihometv.com/joss/133/net/index.m3u8
 #EXTINF:-1 tvg-chno="084" tvg-id="NickJr.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/Nick_Jr._Splat_2023.png/revision/latest?cb=20231122165643" group-title="Anak-anak",Nick Jr
-https://streaming.indihometv.com/joss/130/nickjr/index.m3u8
+https://cdn09jtedge.indihometv.com/joss/130/nickjr/index.m3u8
 #EXTINF:-1 tvg-chno="086" tvg-id="NTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Nusantara_TV.png" group-title="Nasional",NTV
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 #EXTINF:-1 tvg-chno="087" tvg-id="ONE.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/One_logo-small_0.png/revision/latest?cb=20200318121914" group-title="Film dan Drama",ONE
-https://streaming.indihometv.com/joss/133/sone/index.m3u8
+https://cdn09jtedge.indihometv.com/joss/133/sone/index.m3u8
 #EXTINF:-1 tvg-chno="089" tvg-id="PSJTV.id" tvg-logo="https://i.postimg.cc/1XSf22bM/PSJTV-LOGO.png" group-title="Nasional",PSJ TV
 https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
 #EXTINF:-1 tvg-chno="090" tvg-id="RajawaliTV.id" tvg-logo="https://i.imgur.com/dlsv1sl.png" group-title="Nasional",Rajawali TV
-https://streaming.indihometv.com/joss/130/rtv/index.m3u8
+https://cdn09jtedge.indihometv.com/joss/130/rtv/index.m3u8
 #EXTINF:-1 tvg-chno="092" tvg-id="RodjaTV.id" tvg-logo="https://i.imgur.com/XwCeHlC.png" group-title="Religi",Rodja TV
-https://streaming.indihometv.com/joss/130/rodjatv/index.m3u8
+https://cdn09jtedge.indihometv.com/joss/130/rodjatv/index.m3u8
 #EXTINF:-1 tvg-chno="093" tvg-id="SaktiTV.id" tvg-logo="https://i.imgur.com/IDNjMfQ.png" group-title="Daerah",Sakti TV
 https://saktitv.siar.us/saktitv/live/playlist.m3u8
 #EXTINF:-1 tvg-chno="094" tvg-id="SangajiTV.id" tvg-logo="https://i.imgur.com/4rTNT8F.png" group-title="Daerah",Sangaji TV
@@ -172,19 +172,19 @@ https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
 #EXTINF:-1 tvg-chno="095" tvg-id="SemarangTV.id" tvg-logo="https://i.imgur.com/KFC2WSB.png" group-title="Daerah",Semarang TV
 http://116.254.112.74/hls/cakralive.m3u8
 #EXTINF:-1 tvg-chno="096" tvg-id="SeruChannel.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/SERU_Channel.png/revision/latest?cb=20210109115646" group-title="Entertainment",Seru Channel
-https://streaming.indihometv.com/joss/134/seru/index.m3u8
+https://cdn09jtedge.indihometv.com/joss/134/seru/index.m3u8
 #EXTINF:-1 tvg-chno="097" tvg-id="StudioUniversal.id" tvg-logo="https://imgur.com/cPrSMIc.png" group-title="Film dan Drama",Studio Universal
-https://streaming.indihometv.com/joss/130/studiouniversal/index.m3u8
+https://cdn09jtedge.indihometv.com/joss/130/studiouniversal/index.m3u8
 #EXTINF:-1 tvg-chno="098" tvg-id="TechStorm.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Tech_Storm_Logo.png" group-title="Entertainment",Tech Storm
-https://streaming.indihometv.com/joss/133/techstorm/index.m3u8
+https://cdn09jtedge.indihometv.com/joss/133/techstorm/index.m3u8
 #EXTINF:-1 tvg-chno="099" tvg-id="TATV.id" tvg-logo="https://i.imgur.com/1f0EC7t.png" group-title="Daerah",TATV
 https://v2.siar.us/tatv/live.sdp/playlist.m3u8
 #EXTINF:-1 tvg-chno="100" tvg-id="TLC.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/JSJEyPDJ.jpg/revision/latest?cb=20170528201758" group-title="Internasional",TLC
-https://streaming.indihometv.com/joss/133/tlc/index.m3u8
+https://cdn09jtedge.indihometv.com/joss/133/tlc/index.m3u8
 #EXTINF:-1 tvg-chno="101" tvg-id="Trans7.id" tvg-logo="https://i.imgur.com/fAbGImS.png" group-title="Nasional",Trans7
 https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 #EXTINF:-1 tvg-chno="102" tvg-id="TransTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/512px-Trans_TV_2013.svg.png" group-title="Nasional",Trans TV
-https://streaming.indihometv.com/joss/133/transtv/index.m3u8
+https://cdn09jtedge.indihometv.com/joss/133/transtv/index.m3u8
 #EXTINF:-1 tvg-chno="103" tvg-id="TV9Nusantara.id" tvg-logo="https://i.imgur.com/xPjWyiL.png" group-title="Nasional",TV 9 Nusantara
 https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 #EXTINF:-1 tvg-chno="104" tvg-id="TVKesehatan.id" tvg-logo="https://i.imgur.com/IGIX3o8.jpg" group-title="Gaya Hidup",TV Kesehatan
@@ -194,9 +194,9 @@ http://103.30.1.14:8080/hls/live.m3u8
 #EXTINF:-1 tvg-chno="106" tvg-id="TVMu.id" tvg-logo="https://i.imgur.com/rR2iPBk.png" group-title="Religi",TV Mu
 https://e.siar.us/live/tvmu.m3u8
 #EXTINF:-1 tvg-chno="107" tvg-id="TVN.id" tvg-logo="https://imgur.com/Pt0Ezea.png" group-title="Film dan Drama",TVN
-https://streaming.indihometv.com/joss/133/tvn/index.m3u8
+https://cdn09jtedge.indihometv.com/joss/133/tvn/index.m3u8
 #EXTINF:-1 tvg-chno="108" tvg-id="TVNMovies.id" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/ad/TvN_Movies_logo_2021.png/revision/latest?cb=20240514120930&path-prefix=vi" group-title="Film dan Drama",TVN Movies
-https://streaming.indihometv.com/joss/133/tvnmovies/index.m3u8
+https://cdn09jtedge.indihometv.com/joss/133/tvnmovies/index.m3u8
 #EXTINF:-1 tvg-chno="109" tvg-id="tvOne.id" tvg-logo="https://i.imgur.com/LCzQYdy.png" group-title="Berita",tvOne
 http://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
 #EXTINF:-1 tvg-chno="110" tvg-id="TVRINasional.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/tvri.png?raw=true" group-title="Nasional",TVRI Nasional
@@ -224,20 +224,20 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 #EXTINF:-1 tvg-id="120" tvg-id"Aniplus.id" tvg-logo="https://www.dens.tv/images/channel-logo/38.jpg" group-title="Anime", Aniplus
 http://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=ANIPLUS_HD
 #EXTINF:-1 tvg-chno="121" tvg-id="SPOTV.id" tvg-logo="" group-title="Olahraga",SPOTV
-https://streaming.indihometv.com/joss/133/beib1/index.m3u8
+https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
 #EXTINF:-1 tvg-chno="122" tvg-id="SPOTV2.id" tvg-logo="" group-title="Olahraga",SPOTV2
-https://streaming.indihometv.com/joss/133/beib2/index.m3u8
+https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
 #EXTINF:-1 tvg-chno="133" tvg-id="AllPlayEnt.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/AllPlay_Entertainment.png" group-title="Entertainment",All Play Entertainment
-https://streaming.indihometv.com/atm/hlsv3/useeprime/index.m3u8
+https://cdn09jtedge.indihometv.com/atm/hlsv3/useeprime/useeprime.m3u8
 #EXTINF:-1 tvg-chno="134" tvg-id="Antara.id" tvg-logo="https://www.sobatku.co.id/wp-content/uploads/2019/03/Logo-ANTARANews.png" group-title="Nasional",Antara
-https://streaming.indihometv.com/atm/hlsv3/antara/index.m3u8
+https://cdn09jtedge.indihometv.com/atm/hlsv3/antara/antara.m3u8
 #EXTINF:-1 tvg-chno="135" tvg-id="ATV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5e/Logo_Agropolitan_TV_2022.png" group-title="Entertainment",ATV
-https://streaming.indihometv.com/atm/hlsv3/atv/index.m3u8
+https://cdn09jtedge.indihometv.com/atm/hlsv3/atv/atv.m3u8
 #EXTINF:-1 tvg-chno="136" tvg-id="IDX.id" tvg-logo="https://i.imgur.com/xPvrcsr.png" group-title="Bisnis",IDX
-https://streaming.indihometv.com/atm/hlsv3/idx/index.m3u8
+https://cdn09jtedge.indihometv.com/atm/hlsv3/idx/idx.m3u8
 #EXTINF:-1 tvg-chno="137" tvg-id="Inews.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/inews.png?raw=true" group-title="Berita", Inews
-https://streaming.indihometv.com/atm/hlsv3/inews/index.m3u8
+https://cdn09jtedge.indihometv.com/atm/hlsv3/inews/inews.m3u8
 #EXTINF:-1 tvg-chno="138" tvg-id="Indosiar.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Indosiar_Logo_2013.png/revision/latest/scale-to-width-down/250?cb=20201025081108" group-title="Nasional", Indosiar
-https://streaming.indihometv.com/atm/hlsv3/indosiar/index.m3u8
+https://cdn09jtedge.indihometv.com/atm/hlsv3/indosiar/indosiar.m3u8
 #EXTINF:-1 tvg-chno="139" tvg-id="SCTV.id" tvg-logo="https://www.pngwing.com/en/free-png-yhslo" group-title="Nasional",SCTV
-https://streaming.indihometv.com/atm/hlsv3/sctv/index.m3u8
+https://cdn09jtedge.indihometv.com/atm/hlsv3/sctv/sctv.m3u8
