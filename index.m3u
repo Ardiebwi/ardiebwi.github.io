@@ -110,7 +110,7 @@ https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 #EXTINF:-1 tvg-chno="059" tvg-id="IzzahTV.id" tvg-logo="https://i.imgur.com/my7aqLc.png" group-title="Religi",Izzah TV
 https://streaming.radiosalamjambi.com/izzahtv.m3u8
 #EXTINF:-1 tvg-chno="060" tvg-id="JawaPosTV.id" tvg-logo="https://i.imgur.com/Kt2kOGH.png" group-title="Nasional",Jawa Pos TV
-https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
+http://cdn09jtedge.indihometv.com/atm/hlsv3/jawapos/jawapos.m3u8
 #EXTINF:-1 tvg-chno="061" tvg-id="JogjaIstimewaTV.id" tvg-logo="https://i.imgur.com/VEqQfTu.png" group-title="Daerah",Jogja Istimewa TV
 http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
 #EXTINF:-1 tvg-chno="062" tvg-id="JogjaTV.id" tvg-logo="https://i.imgur.com/m9ezMUz.png" group-title="Daerah",Jogja TV
@@ -156,7 +156,7 @@ https://cdn09jtedge.indihometv.com/joss/133/net/index.m3u8
 #EXTINF:-1 tvg-chno="084" tvg-id="NickJr.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/Nick_Jr._Splat_2023.png/revision/latest?cb=20231122165643" group-title="Anak-anak",Nick Jr
 https://cdn09jtedge.indihometv.com/joss/130/nickjr/index.m3u8
 #EXTINF:-1 tvg-chno="086" tvg-id="NTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Nusantara_TV.png" group-title="Nasional",NTV
-https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+http://cdn09jtedge.indihometv.com/atm/hlsv3/nusantaratv/nusantaratv.m3u8
 #EXTINF:-1 tvg-chno="087" tvg-id="ONE.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/One_logo-small_0.png/revision/latest?cb=20200318121914" group-title="Film dan Drama",ONE
 https://cdn09jtedge.indihometv.com/joss/133/sone/index.m3u8
 #EXTINF:-1 tvg-chno="089" tvg-id="PSJTV.id" tvg-logo="https://i.postimg.cc/1XSf22bM/PSJTV-LOGO.png" group-title="Nasional",PSJ TV
