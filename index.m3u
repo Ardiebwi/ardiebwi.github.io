@@ -39,6 +39,8 @@ https://cdn09jtedge.indihometv.com/joss/130/bioskopindonesia/index.m3u8
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 #EXTINF:-1 tvg-chno="013" tvg-id="BungoTV.id" tvg-logo="https://i.imgur.com/OrCrtDA.png" group-title="Daerah",Bungo TV
 https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
+#EXTINF:-1 tvg-chno="154" tvg-id="Cartoonito.id" tvg-logo="" group-title="Anak-anak",Cartoonito
+https://cdn09jtedge.indihometv.com/atm/hlsv3/boomerang/boomerang.m3u8
 #EXTINF:-1 tvg-chno="014" tvg-id="CartoonNetwork.id" tvg-logo="https://blog.logomyway.com/wp-content/uploads/2021/09/Cartoon-Network-logo.png" group-title="Anak-anak",Cartoon Network
 https://cdn09jtedge.indihometv.com/joss/194/cartoonnetwork/index.m3u8
 #EXTINF:-1 tvg-chno="015" tvg-id="CelestialMovies.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Celestial_pic_ch52.jpg/revision/latest/scale-to-width-down/250?cb=20120620031244" group-title="Film dan Drama",Celestial Movies
