@@ -241,3 +241,25 @@ https://cdn09jtedge.indihometv.com/atm/hlsv3/inews/inews.m3u8
 https://cdn09jtedge.indihometv.com/atm/hlsv3/indosiar/indosiar.m3u8
 #EXTINF:-1 tvg-chno="139" tvg-id="SCTV.id" tvg-logo="https://www.pngwing.com/en/free-png-yhslo" group-title="Nasional",SCTV
 https://cdn09jtedge.indihometv.com/atm/hlsv3/sctv/sctv.m3u8
+#EXTINF:-1 tvg-chno="140" tvg-id="Sindonews.id" tvg-logo="" group-title="Berita",Sindonews
+http://cdn09jtedge.indihometv.com/atm/hlsv3/mncnews/mncnews.m3u8
+#EXTINF:-1 tvg-chno="141" tvg-id="SeaToDay.id" tvg-logo="" group-title="Gaya Hidup",Sea To Day
+http://cdn09jtedge.indihometv.com/atm/hlsv3/seatoday/seatoday.m3u8
+#EXTINF:-1 tvg-chno="142" tvg-id="Thrill.id" tvg-logo="" group-title="Film dan Drama",Thrill
+http://cdn09jtedge.indihometv.com/atm/hlsv3/thrill/thrill.m3u8
+#EXTINF:-1 tvg-chno="143" tvg-id="NBATV.id" tvg-logo="" group-title="Olahraga",NBA TV
+http://cdn09jtedge.indihometv.com/joss/133/nba/index.m3u8
+#EXTINF:-1 tvg-chno="144" tvg-id="ZeeBioskop.id" tvg-logo="" group-title="Film dan Drama",Zee Bioskop
+http://cdn09jtedge.indihometv.com/atm/hlsv3/zbioskop/zbioskop.m3u8
+#EXTINF:-1 tvg-chno="145" tvg-id="Nickelodeon.id" tvg-logo="" group-title="Anak-anak",Nickelodeon 
+http://cdn09jtedge.indihometv.com/atm/hlsv3/nickelodeon/nickelodeon.m3u8
+#EXTINF:-1 tvg-chno="146" tvg-id="AXN.id" tvg-logo="" group-title="Entertainment",AXN
+http://cdn09jtedge.indihometv.com/atm/hlsv3/axn/axn.m3u8
+#EXTINF:-1 tvg-chno="147" tvg-id="Aljazeera.id" tvg-logo="" group-title="Berita",Aljazeera
+http://cdn09jtedge.indihometv.com/atm/hlsv3/aljazeera/aljazeera.m3u8
+#EXTINF:-1 tvg-chno="148" tvg-id="K+.id" tvg-logo="" group-title="Entertainment",K+
+http://cdn09jtedge.indihometv.com/atm/hlsv3/kplus/kplus.m3u8
+#EXTINF:-1 tvg-chno="149" tvg-id="WarnerTV.id" tvg-logo="" group-title="Film dan Drama",Warner TV
+http://cdn09jtedge.indihometv.com/atm/hlsv3/warner/warner.m3u8
+#EXTINF:-1 tvg-chno="150" tvg-id="AlQur'anTV.id" tvg-logo="" group-title="Religi",Al Qur'an TV
+http://cdn09jtedge.indihometv.com/atm/hlsv3/alquran/alquran.m3u8
