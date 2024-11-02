@@ -169,8 +169,8 @@ https://cdngb196.indihometv.com/joss/194/maxstream/index.m3u8
 https://cdngb196.indihometv.com/joss/134/mentaritv/index.m3u8
 #EXTINF:-1 tvg-chno="074" tvg-id="MetroTV" tvg-logo="https://www.firstmedia.com/_next/image?url=https%3A%2F%2Fflmngr.firstmedia.com%2Ffiles%2Flogos%2Fchannels%2F11-NEWS%2FMetro%20TV%20SD-FirstMedia-Chl-7.jpg&w=1920&q=100" group-title="Berita",Metro TV
 https://cdngb196.indihometv.com/joss/133/metrotv/index.m3u8
-#EXTINF:-1 tvg-chno="075" tvg-id="MGSTV.id" tvg-logo="https://i.imgur.com/MYU7dsZ.png" group-title="Religi",MGSTV
-https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv.m3u8
+#EXTINF:-1 tvg-chno="075" tvg-id="MTATV.id" tvg-logo="" group-title="Religi",MTATV
+https://cdngb196.indihometv.com/atm/hlsv3/mtatv/mtatv.m3u8
 #EXTINF:-1 tvg-chno="077" tvg-id="MOJI.tv" tvg-logo="https://thumbor.prod.vidiocdn.com/v5PaORcp4FTzU8QX-yuZmh-qCpk=/784x441/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/206/moji-cover-7acc96.jpg" group-title="Nasional",MOJI
 https://cdngb196.indihometv.com/joss/134/ochannel/index.m3u8
 #EXTINF:-1 tvg-chno="078" tvg-id="Moonbug.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Moonbug2ndLogo.png" group-title="Internasional",Moonbug
@@ -240,7 +240,7 @@ https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8
 #EXTINF:-1 tvg-chno="105" tvg-id="TVKU.id" tvg-logo="https://i.imgur.com/BAklJGy.png" group-title="Nasional",TVKU
 http://103.30.1.14:8080/hls/live.m3u8
 #EXTINF:-1 tvg-chno="106" tvg-id="TVMu.id" tvg-logo="https://i.imgur.com/rR2iPBk.png" group-title="Religi",TV Mu
-https://e.siar.us/live/tvmu.m3u8
+https://cdngb196.indihometv.com/atm/hlsv3/muhammadiyahtv/muhammadiyahtv.m3u8
 #EXTINF:-1 tvg-chno="107" tvg-id="TVN.id" tvg-logo="https://imgur.com/Pt0Ezea.png" group-title="Film dan Drama",TVN
 https://cdngb196.indihometv.com/joss/133/tvn/index.m3u8
 #EXTINF:-1 tvg-chno="108" tvg-id="TVNMovies.id" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/ad/TvN_Movies_logo_2021.png/revision/latest?cb=20240514120930&path-prefix=vi" group-title="Film dan Drama",TVN Movies
