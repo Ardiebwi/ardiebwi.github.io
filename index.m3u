@@ -69,10 +69,6 @@ https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
 https://cdn09jtedge.indihometv.com/joss/133/disco/index.m3u8
 #EXTINF:-1 tvg-chno="026" tvg-id="DreamWorks.id" tvg-logo="https://logos-world.net/wp-content/uploads/2020/12/DreamWorks-Animation-Logo.png" group-title="Anak-anak",DreamWorks
 https://cdn09jtedge.indihometv.com/joss/133/dreamworks/index.m3u8
-#EXTINF:-1 tvg-chno="155" tvg-id="Dubai2.id" tvg-logo="" group-title="Olahraga",Dubai Sports 2
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
-#EXTINF:-1 tvg-chno="156" tvg-id="Dubai3.id" tvg-logo="" group-title="Olahraga",Dubai Sports 3
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
 #EXTINF:-1 tvg-chno="027" tvg-id="DuniaAnak.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/Dunia_Anak_Transvision.png/revision/latest?cb=20190206163728" group-title="Anak-anak",Dunia Anak
 https://cdn09jtedge.indihometv.com/joss/130/duniaanak/index.m3u8
 #EXTINF:-1 tvg-chno="028" tvg-id="DuniaGamesTV.id" tvg-logo="https://i.imgur.com/SSDguTa.png" group-title="Olahraga",Dunia Games TV
