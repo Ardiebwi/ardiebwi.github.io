@@ -175,6 +175,8 @@ https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 https://cdn09jtedge.indihometv.com/joss/130/muitv/index.m3u8
 #EXTINF:-1 tvg-chno="081" tvg-id="MusikIndo.id" tvg-logo="https://imgur.com/DqGVYUf.png" group-title="Musik",Musik Indo
 https://cdn09jtedge.indihometv.com/joss/134/musikindo720/index.m3u8
+#EXTINF:-1 tvg-chno="152" tvg-id="MyKidz.id" tvg-logo="" group-title="Anak-anak",My Kidz
+http://cdn09jtedge.indihometv.com/atm/hlsv3/mykids/mykids.m3u8
 #EXTINF:-1 tvg-chno="143" tvg-id="NBATV.id" tvg-logo="" group-title="Olahraga",NBA TV
 http://cdn09jtedge.indihometv.com/joss/133/nba/index.m3u8
 #EXTINF:-1 tvg-chno="083" tvg-id="NET.id" tvg-logo="https://i.imgur.com/RPT8O12.png" group-title="Nasional",NET.
