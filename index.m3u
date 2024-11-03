@@ -105,7 +105,7 @@ https://cdngb196.indihometv.com/joss/133/hgtv/index.m3u8
 https://cdngb196.indihometv.com/joss/133/history/index.m3u8
 #EXTINF:-1 tvg-chno="044" tvg-id="Hits.id" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/ee/HITS_%28HITS_Movies%29.png/revision/latest?cb=20221225102427&path-prefix=vi" group-title="Film dan Drama",Hits
 https://cdngb196.indihometv.com/joss/133/hits/index.m3u8
-#EXTINF:-1 tvg-chno="045" tvg-id="HitsNow.id" tvg-logo="https://imgur.com/3jmzlgR.png" group-title="Musik",Hits Now
+#EXTINF:-1 tvg-chno="045" tvg-id="HitsNow.id" tvg-logo="https://imgur.com/3jmzlgR.png" group-title="Film dan Drama",Hits Now
 https://cdngb196.indihometv.com/joss/134/hitsnow/index.m3u8
 #EXTINF:-1 tvg-chno="046" tvg-id="HitsMovies.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/HITS_MOVIES_ASIA.png/revision/latest?cb=20210828003911" group-title="Film dan Drama",Hits Movies
 https://cdngb196.indihometv.com/joss/133/hitsmovie/index.m3u8
