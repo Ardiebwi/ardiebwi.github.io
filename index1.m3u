@@ -45,7 +45,7 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 https://streaming.indihometv.com/joss/133/crimeinvestigation/index.m3u8
 #EXTINF:-1 tvg-chno="133" tvg-id="Curiosity.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f7/Curiosity_Channel_3.png/revision/latest/scale-to-width-down/250?cb=20230331100706" group-title="Gaya Hidup",Curiosity
 https://streaming.indihometv.com/joss/194/curiosity/index.m3u8
-#EXTINF:-1 tvg-chno="022" tvg-id="DAAITV.id" tvg-logo="https://i.imgur.com/YC7JCHo.png" group-title="Dakwah",DAAI TV
+#EXTINF:-1 tvg-chno="022" tvg-id="DAAITV.id" tvg-logo="https://i.imgur.com/YC7JCHo.png" group-title="Nasional",DAAI TV
 https://streaming.indihometv.com/joss/134/daaitv/index.m3u8
 #EXTINF:-1 tvg-chno="137" tvg-id="DaVinci.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Da_Vinci_osb_2022.png/revision/latest/scale-to-width-down/250?cb=20230519121222" group-title="Pengetahuan",Da Vinci
 https://streaming.indihometv.com/joss/134/davinci/index.m3u8
