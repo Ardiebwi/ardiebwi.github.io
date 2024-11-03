@@ -163,7 +163,7 @@ https://cdngb196.indihometv.com/joss/194/lovenature/index.m3u8
 https://re1.siar.us/madutv/hd720/playlist.m3u8
 #EXTINF:-1 tvg-chno="071" tvg-id="MagnaChannel.id" tvg-logo="https://i.imgur.com/tfJo0SO.png" group-title="Nasional",Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="072" tvg-id="MAXStream.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_MAX_horizontal_on_white_.jpg" group-title="Film dan Drama",MAX Stream
+#EXTINF:-1 tvg-chno="072" tvg-id="MAXStream.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_MAX_horizontal_on_white_.jpg" group-title="Nasional",MAX Stream
 https://cdngb196.indihometv.com/joss/194/maxstream/index.m3u8
 #EXTINF:-1 tvg-chno="073" tvg-id="MentariTV.id" tvg-logo="https://logowik.com/content/uploads/images/mentari-tv2070.logowik.com.webp" group-title="Nasional",Mentari TV
 https://cdngb196.indihometv.com/joss/134/mentaritv/index.m3u8
