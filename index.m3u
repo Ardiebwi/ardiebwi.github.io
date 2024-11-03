@@ -193,7 +193,7 @@ http://cdngb196.indihometv.com/atm/hlsv3/nickelodeon/nickelodeon.m3u8
 https://cdngb196.indihometv.com/joss/130/nickjr/index.m3u8
 #EXTINF:-1 tvg-chno="086" tvg-id="NTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Nusantara_TV.png" group-title="Nasional",NTV
 http://cdngb196.indihometv.com/atm/hlsv3/nusantaratv/nusantaratv.m3u8
-#EXTINF:-1 tvg-chno="087" tvg-id="ONE.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/One_logo-small_0.png/revision/latest?cb=20200318121914" group-title="Film dan Drama",ONE
+#EXTINF:-1 tvg-chno="087" tvg-id="ONE.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/One_logo-small_0.png/revision/latest?cb=20200318121914" group-title="Entertainment",ONE
 https://cdngb196.indihometv.com/joss/133/sone/index.m3u8
 #EXTINF:-1 tvg-chno="156" tvg-id="Prambors.id" tvg-logo="" group-title="Musik",Prambors
 https://cdngb196.indihometv.com/atm/hlsv3/PRAMBORS_TV/PRAMBORS_TV.m3u8
