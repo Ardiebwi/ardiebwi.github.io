@@ -59,7 +59,7 @@ https://cdngb196.indihometv.com/joss/133/cnnindonesia/index.m3u8
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 #EXTINF:-1 tvg-chno="153" tvg-id="Crime+Investigation.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" group-title="Pengetahuan",Crime + Investigation
 https://cdngb196.indihometv.com/joss/133/crimeinvestigation/index.m3u8
-#EXTINF:-1 tvg-chno="022" tvg-id="DAAITV.id" tvg-logo="https://i.imgur.com/YC7JCHo.png" group-title="Religi",DAAI TV
+#EXTINF:-1 tvg-chno="022" tvg-id="DAAITV.id" tvg-logo="https://i.imgur.com/YC7JCHo.png" group-title="Nasional",DAAI TV
 https://cdngb196.indihometv.com/joss/134/daaitv/index.m3u8
 #EXTINF:-1 tvg-chno="023" tvg-id="DhammaTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/63/Dhamma_TV_baru.png" group-title="Religi",Dhamma TV
 https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
