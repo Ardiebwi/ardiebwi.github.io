@@ -149,10 +149,6 @@ http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
 https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 #EXTINF:-1 tvg-chno="063" tvg-id="JTV.id" tvg-logo="https://i.imgur.com/mIDWIQk.png" group-title="Daerah",JTV
 https://cdngb196.indihometv.com/joss/134/jtv/index.m3u8
-#EXTINF:-1 tvg-chno="160" tvg-id="KSports.id" tvg-logo="" group-title="Olahraga",K Sports
-https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-chno="161" tvg-id="KSports.id" tvg-logo="" group-title="Olahraga",K Sports+
-https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-chno="148" tvg-id="K+.id" tvg-logo="" group-title="Entertainment",K+
 http://cdngb196.indihometv.com/atm/hlsv3/kplus/kplus.m3u8
 #EXTINF:-1 tvg-chno=""064 tvg-id="KilisuciTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e4/Kilisuci_TV_NEW_LOGO_2016.png" group-title="Daerah",Kilisuci TV
@@ -211,8 +207,6 @@ https://cdngb196.indihometv.com/atm/hlsv3/PRAMBORS_TV/PRAMBORS_TV.m3u8
 https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
 #EXTINF:-1 tvg-chno="090" tvg-id="RajawaliTV.id" tvg-logo="https://i.imgur.com/dlsv1sl.png" group-title="Nasional",Rajawali TV
 https://cdngb196.indihometv.com/joss/130/rtv/index.m3u8
-#EXTINF:-1 tvg-chno="162" tvg-id="RealMadrid.id" tvg-logo="" group-title="Olahraga",Real Madrid
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
 #EXTINF:-1 tvg-chno="092" tvg-id="RodjaTV.id" tvg-logo="https://i.imgur.com/XwCeHlC.png" group-title="Religi",Rodja TV
 https://cdngb196.indihometv.com/joss/130/rodjatv/index.m3u8
 #EXTINF:-1 tvg-chno="157" tvg-id="RRINET.id" tvg-logo="" group-title="Berita",RRI NET
@@ -231,8 +225,6 @@ http://116.254.112.74/hls/cakralive.m3u8
 https://cdngb196.indihometv.com/joss/134/seru/index.m3u8
 #EXTINF:-1 tvg-chno="140" tvg-id="Sindonews.id" tvg-logo="" group-title="Berita",Sindonews
 http://cdngb196.indihometv.com/atm/hlsv3/mncnews/mncnews.m3u8
-#EXTINF:-1 tvg-chno="163" tvg-id="Sports.id" tvg-logo="" group-title="Olahraga",Sports TV
-https://live.sportstv.com.tr/hls/low/sportstv.m3u8
 #EXTINF:-1 tvg-chno="121" tvg-id="SPOTV.id" tvg-logo="" group-title="Olahraga",SPOTV
 https://cdngb196.indihometv.com/joss/133/beib1/index.m3u8
 #EXTINF:-1 tvg-chno="122" tvg-id="SPOTV2.id" tvg-logo="" group-title="Olahraga",SPOTV2
