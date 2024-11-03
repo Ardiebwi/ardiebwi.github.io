@@ -37,8 +37,6 @@ https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
 https://cdngb196.indihometv.com/joss/130/bioskopindonesia/index.m3u8
 #EXTINF:-1 tvg-chno="012" tvg-id="BeritaSatu.id" tvg-logo="https://i.imgur.com/fdygcVx.png" group-title="Berita",Berita Satu
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
-#EXTINF:-1 tvg-chno="159" tvg-id="Billiard.id" tvg-logo="" group-title="Olahraga",Billiard TV
-https://9769bd6405b245ea9adca1889a0b491b.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-in_BilliardTV/playlist.m3u8
 #EXTINF:-1 tvg-chno="013" tvg-id="BungoTV.id" tvg-logo="https://i.imgur.com/OrCrtDA.png" group-title="Daerah",Bungo TV
 https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
 #EXTINF:-1 tvg-chno="154" tvg-id="Cartoonito.id" tvg-logo="" group-title="Anak-anak",Cartoonito
@@ -93,8 +91,6 @@ https://v3.siar.us/ficomchannel/live/playlist.m3u8
 https://cdngb196.indihometv.com/joss/133/fightsport/index.m3u8
 #EXTINF:-1 tvg-chno="036" tvg-id="Flik.id" tvg-logo="https://imgur.com/gBZNgy4.png" group-title="Film dan Drama",Flik
 https://cdngb196.indihometv.com/joss/133/flik/index.m3u8
-#EXTINF:-1 tvg-chno="158" tvg-id="FoxSports.id" tvg-logo="" group-title="Olahraga",Fox Sports
-http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
 #EXTINF:-1 tvg-chno="037" tvg-id="FunPlanet.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Fun_Planet.png" group-title="Anak-anak",Fun Planet
 https://cdngb196.indihometv.com/joss/134/indikids/index.m3u8
 #EXTINF:-1 tvg-chno="038" tvg-id="Galaxy.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Galaxy_Indonesia_TV.PNG/revision/latest?cb=20190614114528" group-title="Film dan Drama",Galaxy
@@ -173,8 +169,6 @@ https://cdngb196.indihometv.com/joss/194/maxstream/index.m3u8
 https://cdngb196.indihometv.com/joss/134/mentaritv/index.m3u8
 #EXTINF:-1 tvg-chno="074" tvg-id="MetroTV" tvg-logo="https://www.firstmedia.com/_next/image?url=https%3A%2F%2Fflmngr.firstmedia.com%2Ffiles%2Flogos%2Fchannels%2F11-NEWS%2FMetro%20TV%20SD-FirstMedia-Chl-7.jpg&w=1920&q=100" group-title="Berita",Metro TV
 https://cdngb196.indihometv.com/joss/133/metrotv/index.m3u8
-#EXTINF:-1 tvg-chno="157" tvg-id="MLBNetwork.id" tvg-logo="" group-title="Olahraga",MLB Network
-http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
 #EXTINF:-1 tvg-chno="075" tvg-id="MTATV.id" tvg-logo="" group-title="Religi",MTATV
 https://cdngb196.indihometv.com/atm/hlsv3/mtatv/mtatv.m3u8
 #EXTINF:-1 tvg-chno="077" tvg-id="MOJI.tv" tvg-logo="https://thumbor.prod.vidiocdn.com/v5PaORcp4FTzU8QX-yuZmh-qCpk=/784x441/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/206/moji-cover-7acc96.jpg" group-title="Nasional",MOJI
