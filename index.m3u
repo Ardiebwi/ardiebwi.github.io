@@ -125,6 +125,8 @@ https://cdngb196.indihometv.com/atm/hlsv3/idx/idx.m3u8
 https://cdngb196.indihometv.com/joss/130/imc/index.m3u8
 #EXTINF:-1 tvg-chno="151" tvg-id="Impact.id" tvg-logo="" group-title="Olahraga",Impact Wrestling
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 tvg-chno="158" tvg-id="IMTV.id" tvg-logo="" group-title="Musik",IMTV
+https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
 #EXTINF:-1 tvg-chno="054" tvg-id="Indonesiana.tv" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/indonesianatv.png?raw=true" group-title="Nasional",Indonesiana.TV
 https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index.m3u8
 #EXTINF:-1 tvg-chno="138" tvg-id="Indosiar.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Indosiar_Logo_2013.png/revision/latest/scale-to-width-down/250?cb=20201025081108" group-title="Nasional",Indosiar
@@ -163,12 +165,16 @@ https://cdngb196.indihometv.com/joss/194/lovenature/index.m3u8
 https://re1.siar.us/madutv/hd720/playlist.m3u8
 #EXTINF:-1 tvg-chno="071" tvg-id="MagnaChannel.id" tvg-logo="https://i.imgur.com/tfJo0SO.png" group-title="Nasional",Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+#EXTINF:-1 tvg-chno="159" tvg-id="Maleo.id" tvg-logo="" group-title="Musik",Maleo
+https://play.accolamedia.id/accola/maleo.stream/playlist.m3u8
 #EXTINF:-1 tvg-chno="072" tvg-id="MAXStream.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_MAX_horizontal_on_white_.jpg" group-title="Nasional",MAX Stream
 https://cdngb196.indihometv.com/joss/194/maxstream/index.m3u8
 #EXTINF:-1 tvg-chno="073" tvg-id="MentariTV.id" tvg-logo="https://logowik.com/content/uploads/images/mentari-tv2070.logowik.com.webp" group-title="Nasional",Mentari TV
 https://cdngb196.indihometv.com/joss/134/mentaritv/index.m3u8
 #EXTINF:-1 tvg-chno="074" tvg-id="MetroTV" tvg-logo="https://www.firstmedia.com/_next/image?url=https%3A%2F%2Fflmngr.firstmedia.com%2Ffiles%2Flogos%2Fchannels%2F11-NEWS%2FMetro%20TV%20SD-FirstMedia-Chl-7.jpg&w=1920&q=100" group-title="Berita",Metro TV
 https://cdngb196.indihometv.com/joss/133/metrotv/index.m3u8
+#EXTINF:-1 tvg-chno="157" tvg-id="MIC.id" tvg-logo="" group-title="Musik",MIC
+https://v2.siar.us/mic/live/playlist.m3u8
 #EXTINF:-1 tvg-chno="075" tvg-id="MTATV.id" tvg-logo="" group-title="Religi",MTATV
 https://cdngb196.indihometv.com/atm/hlsv3/mtatv/mtatv.m3u8
 #EXTINF:-1 tvg-chno="077" tvg-id="MOJI.tv" tvg-logo="https://thumbor.prod.vidiocdn.com/v5PaORcp4FTzU8QX-yuZmh-qCpk=/784x441/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/206/moji-cover-7acc96.jpg" group-title="Nasional",MOJI
@@ -195,6 +201,8 @@ https://cdngb196.indihometv.com/joss/130/nickjr/index.m3u8
 http://cdngb196.indihometv.com/atm/hlsv3/nusantaratv/nusantaratv.m3u8
 #EXTINF:-1 tvg-chno="087" tvg-id="ONE.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/One_logo-small_0.png/revision/latest?cb=20200318121914" group-title="Entertainment",ONE
 https://cdngb196.indihometv.com/joss/133/sone/index.m3u8
+#EXTINF:-1 tvg-chno="156" tvg-id="POP.id" tvg-logo="" group-title="Musik",POP Musik
+https://play.accolamedia.id/accola/popmusic.stream/playlist.m3u8
 #EXTINF:-1 tvg-chno="156" tvg-id="Prambors.id" tvg-logo="" group-title="Musik",Prambors
 https://cdngb196.indihometv.com/atm/hlsv3/PRAMBORS_TV/PRAMBORS_TV.m3u8
 #EXTINF:-1 tvg-chno="089" tvg-id="PSJTV.id" tvg-logo="https://i.postimg.cc/1XSf22bM/PSJTV-LOGO.png" group-title="Nasional",PSJ TV
