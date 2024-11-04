@@ -1,12 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="001" tvg-id="AKTV.id" tvg-logo="https://i.imgur.com/DUY5WXf.png" group-title="Daerah",AKTV
-https://e.siar.us/live/aktv.m3u8
-#EXTINF:-1 tvg-chno="002" tvg-id="AlImanTV.id" tvg-logo="https://i.imgur.com/Qj1EFf1.png" group-title="Religi",Al-Iman TV
-https://tv.aliman.id/aliman/live.m3u8
 #EXTINF:-1 tvg-chno="147" tvg-id="Aljazeera.id" tvg-logo="" group-title="Berita",Aljazeera
 http://cdngb196.indihometv.com/atm/hlsv3/aljazeera/aljazeera.m3u8
-#EXTINF:-1 tvg-chno="003" tvg-id="AlWafaTarim.id" tvg-logo="https://i.ibb.co/3yfMjmf/logo-3.png" group-title="Religi",Al Wafa Tarim
-https://ammedia.siar.us/ammedia/live/playlist.m3u8
 #EXTINF:-1 tvg-chno="133" tvg-id="AllPlayEnt.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/AllPlay_Entertainment.png" group-title="Entertainment",All Play Entertainment
 https://cdngb196.indihometv.com/atm/hlsv3/useeprime/useeprime.m3u8
 #EXTINF:-1 tvg-chno="150" tvg-id="AlQur'anTV.id" tvg-logo="" group-title="Religi",Al Qur'an TV
@@ -61,10 +55,6 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 https://cdngb196.indihometv.com/joss/133/crimeinvestigation/index.m3u8
 #EXTINF:-1 tvg-chno="022" tvg-id="DAAITV.id" tvg-logo="https://i.imgur.com/YC7JCHo.png" group-title="Nasional",DAAI TV
 https://cdngb196.indihometv.com/joss/134/daaitv/index.m3u8
-#EXTINF:-1 tvg-chno="023" tvg-id="DhammaTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/63/Dhamma_TV_baru.png" group-title="Religi",Dhamma TV
-https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
-#EXTINF:-1 tvg-chno="024" tvg-id="DhohoTV.id" tvg-logo="https://i.imgur.com/4Khyyfh.png" group-title="Daerah",Dhoho TV
-https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
 #EXTINF:-1 tvg-chno="025" tvg-id="Discovery.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Discovery_Channel_2008.png/revision/latest?cb=20091118145933" group-title="Gaya Hidup",Discovery
 https://cdngb196.indihometv.com/joss/133/disco/index.m3u8
 #EXTINF:-1 tvg-chno="155" tvg-id="DiscoveryAsia.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Discovery_Channel_2008.png/revision/latest?cb=20091118145933" group-title="Gaya Hidup",Discovery Asia
@@ -77,8 +67,6 @@ https://cdngb196.indihometv.com/joss/130/duniaanak/index.m3u8
 https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6854467f-52fe-48ee-9822-00233c678709)/index.m3u8
 #EXTINF:-1 tvg-chno="029" tvg-id="DuniaLain.id" tvg-logo="https://imgur.com/W1tGNGi.png" group-title="Entertainment",Dunia Lain
 https://cdngb196.indihometv.com/joss/130/dunialain/index.m3u8
-#EXTINF:-1 tvg-chno="030" tvg-id="DutaTV.id" tvg-logo="https://i.imgur.com/B4JW54M.png" group-title="Daerah",Duta TV
-https://dutatv.siar.us/dutatv/live/playlist.m3u8
 #EXTINF:-1 tvg-chno="131" tvg-id="DWTV.id" tvg-logo="" group-title="Gaya Hidup",DW TV
 https://cdngb196.indihometv.com/joss/134/dwtv/index.m3u8
 #EXTINF:-1 tvg-chno="031" tvg-id="Eat&Go.id" tvg-logo="https://imgur.com/K2DtEk3.png" group-title="Entertainment",Eat & Go
