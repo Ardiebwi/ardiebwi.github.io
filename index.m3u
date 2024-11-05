@@ -199,6 +199,8 @@ https://cdngb196.indihometv.com/joss/133/beib1/index.m3u8
 https://cdngb196.indihometv.com/joss/133/beib2/index.m3u8
 #EXTINF:-1 tvg-chno="097" tvg-id="StudioUniversal.id" tvg-logo="https://imgur.com/cPrSMIc.png" group-title="Film dan Drama",Studio Universal
 https://cdngb196.indihometv.com/joss/130/studiouniversal/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="Tawaf.id" tvg-logo="" group-title="Religi",Tawaf TV
+https://cdngb196.indihometv.com/atm/hlsv3/tawaftv/tawaftv.m3u8
 #EXTINF:-1 tvg-chno="098" tvg-id="TechStorm.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Tech_Storm_Logo.png" group-title="Entertainment",Tech Storm
 https://cdngb196.indihometv.com/joss/133/techstorm/index.m3u8
 #EXTINF:-1 tvg-chno="142" tvg-id="Thrill.id" tvg-logo="" group-title="Film dan Drama",Thrill
