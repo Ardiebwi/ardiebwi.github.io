@@ -127,8 +127,12 @@ https://cdngb196.indihometv.com/joss/134/jtv/index.m3u8
 http://cdngb196.indihometv.com/atm/hlsv3/kplus/kplus.m3u8
 #EXTINF:-1 tvg-chno=""064 tvg-id="KilisuciTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e4/Kilisuci_TV_NEW_LOGO_2016.png" group-title="Daerah",Kilisuci TV
 https://5bf7b725107e5.streamlock.net/kstv/kstv/playlist.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="Kix.id" tvg-logo="" group-title="Entertainment",Kix
+https://cdngb196.indihometv.com/joss/133/kix/index.m3u8
 #EXTINF:-1 tvg-chno="065" tvg-id="KompasTV.id" tvg-logo="https://i.imgur.com/bD6UHeZ.png" group-title="Berita",Kompas TV
 https://cdngb196.indihometv.com/joss/133/kompastv/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="Kungfu.id" tvg-logo="" group-title="Olahraga",Kungfu TV
+https://cdngb196.indihometv.com/joss/130/kungfutv/index.m3u8
 #EXTINF:-1 tvg-chno="066" tvg-id="LifeTime.id" tvg-logo="https://logowik.com/content/uploads/images/lifetime-tv1247.jpg" group-title="Gaya Hidup",Life Time
 https://cdngb196.indihometv.com/joss/134/lifetime/index.m3u8
 #EXTINF:-1 tvg-chno="067" tvg-id="LingkarTV.id" tvg-logo="https://lingkartv.com/assets/img/logo-square.png" group-title="Nasional",Lingkar TV
@@ -171,6 +175,8 @@ https://cdngb196.indihometv.com/joss/130/nickjr/index.m3u8
 http://cdngb196.indihometv.com/atm/hlsv3/nusantaratv/nusantaratv.m3u8
 #EXTINF:-1 tvg-chno="087" tvg-id="ONE.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/One_logo-small_0.png/revision/latest?cb=20200318121914" group-title="Entertainment",ONE
 https://cdngb196.indihometv.com/joss/133/sone/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="Panda.id" tvg-logo="" group-title="Pengetahuan",Panda TV
+https://cdngb196.indihometv.com/joss/130/pandatv/index.m3u8
 #EXTINF:-1 tvg-chno="156" tvg-id="POP.id" tvg-logo="" group-title="Musik",POP Musik
 https://play.accolamedia.id/accola/popmusic.stream/playlist.m3u8
 #EXTINF:-1 tvg-chno="156" tvg-id="Prambors.id" tvg-logo="" group-title="Musik",Prambors
