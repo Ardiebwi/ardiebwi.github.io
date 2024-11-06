@@ -175,7 +175,7 @@ https://cdngb196.indihometv.com/joss/133/sone/index.m3u8
 https://play.accolamedia.id/accola/popmusic.stream/playlist.m3u8
 #EXTINF:-1 tvg-chno="156" tvg-id="Prambors.id" tvg-logo="" group-title="Musik",Prambors
 https://cdngb196.indihometv.com/atm/hlsv3/PRAMBORS_TV/PRAMBORS_TV.m3u8
-#EXTINF:-1 tvg-chno="089" tvg-id="PSJTV.id" tvg-logo="https://i.postimg.cc/1XSf22bM/PSJTV-LOGO.png" group-title="Nasional",PSJ TV
+#EXTINF:-1 tvg-chno="089" tvg-id="PSJTV.id" tvg-logo="https://i.postimg.cc/1XSf22bM/PSJTV-LOGO.png" group-title="Daerah",PSJ TV
 https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
 #EXTINF:-1 tvg-chno="090" tvg-id="RajawaliTV.id" tvg-logo="https://i.imgur.com/dlsv1sl.png" group-title="Nasional",Rajawali TV
 https://cdngb196.indihometv.com/joss/130/rtv/index.m3u8
