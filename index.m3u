@@ -207,6 +207,10 @@ https://cdngb196.indihometv.com/joss/130/shenzen/index.m3u8
 https://cdngb196.indihometv.com/joss/134/seru/index.m3u8
 #EXTINF:-1 tvg-chno="140" tvg-id="Sindonews.id" tvg-logo="" group-title="Berita",Sindonews
 http://cdngb196.indihometv.com/atm/hlsv3/mncnews/mncnews.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="Sport.id" tvg-logo="" group-title="Olahraga",Sportstar 1
+https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar/sa_hls/rcti-sportstar.m3u8?c
+#EXTINF:-1 tvg-chno="" tvg-id="Sport.id" tvg-logo="" group-title="Olahraga",Sportstar 2
+https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar2/sa_hls/rcti-sportstar2.m3u8?c
 #EXTINF:-1 tvg-chno="121" tvg-id="SPOTV.id" tvg-logo="" group-title="Olahraga",SPOTV
 https://cdngb196.indihometv.com/joss/133/beib1/index.m3u8
 #EXTINF:-1 tvg-chno="122" tvg-id="SPOTV2.id" tvg-logo="" group-title="Olahraga",SPOTV2
