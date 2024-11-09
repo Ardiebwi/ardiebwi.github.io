@@ -147,8 +147,6 @@ https://lingkartv.my.id/hls/lingkartv.m3u8
 https://cdngb196.indihometv.com/joss/133/lingua/index.m3u8
 #EXTINF:-1 tvg-chno="069" tvg-id="LoveNature.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/Love_Nature_TV.png/revision/latest?cb=20151125134652" group-title="Pengetahuan",Love Nature
 https://cdngb196.indihometv.com/joss/194/lovenature/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="Love.id" tvg-logo="" group-title="Pengetahuan",Love The Planet
-https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/480p/index.m3u8
 #EXTINF:-1 tvg-chno="159" tvg-id="Maleo.id" tvg-logo="" group-title="Musik",Maleo
 https://play.accolamedia.id/accola/maleo.stream/playlist.m3u8
 #EXTINF:-1 tvg-chno="072" tvg-id="MAXStream.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_MAX_horizontal_on_white_.jpg" group-title="Nasional",MAX Stream
@@ -183,8 +181,6 @@ https://cdngb196.indihometv.com/joss/130/nickjr/index.m3u8
 http://cdngb196.indihometv.com/atm/hlsv3/nusantaratv/nusantaratv.m3u8
 #EXTINF:-1 tvg-chno="087" tvg-id="ONE.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/One_logo-small_0.png/revision/latest?cb=20200318121914" group-title="Entertainment",ONE
 https://cdngb196.indihometv.com/joss/133/sone/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="Outdoor.id" tvg-logo="" group-title="Pengetahuan",Outdoor
-https://amg00718-outdoorchannela-outdoortvnz-samsungnz-lylq4.amagi.tv/playlist/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="Panda.id" tvg-logo="" group-title="Pengetahuan",Panda TV
 https://cdngb196.indihometv.com/joss/130/pandatv/index.m3u8
 #EXTINF:-1 tvg-chno="156" tvg-id="POP.id" tvg-logo="" group-title="Musik",POP Musik
@@ -267,8 +263,6 @@ http://103.18.181.69:1935/golive/livestream/playlist.m3u8
 https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
 #EXTINF:-1 tvg-chno="149" tvg-id="WarnerTV.id" tvg-logo="" group-title="Film dan Drama",Warner TV
 http://cdngb196.indihometv.com/atm/hlsv3/warner/warner.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="War.id" tvg-logo="" group-title="Pengetahuan", World War TV
-https://amg00841-aenetworksukane-worldwartv-samsunguk-fiod1.amagi.tv/playlist/amg00841-aenetworksukane-worldwartv-samsunguk/playlist.m3u8
 #EXTINF:-1 tvg-chno="144" tvg-id="ZeeBioskop.id" tvg-logo="" group-title="Film dan Drama",Zee Bioskop
 http://cdngb196.indihometv.com/atm/hlsv3/zbioskop/zbioskop.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="Zhejiang.id" tvg-logo="" group-title="Internasional",Zhejiang
