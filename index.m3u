@@ -149,7 +149,7 @@ https://cdngb196.indihometv.com/joss/133/kompastv/index.m3u8
 https://cdngb196.indihometv.com/joss/130/kungfutv/index.m3u8
 #EXTINF:-1 tvg-chno="066" tvg-id="LifeTime.id" tvg-logo="https://logowik.com/content/uploads/images/lifetime-tv1247.jpg" group-title="Gaya Hidup",Life Time
 https://cdngb196.indihometv.com/joss/134/lifetime/index.m3u8
-#EXTINF:-1 tvg-chno="067" tvg-id="LingkarTV.id" tvg-logo="https://lingkartv.com/assets/img/logo-square.png" group-title="Nasional",Lingkar TV
+#EXTINF:-1 tvg-chno="067" tvg-id="LingkarTV.id" tvg-logo="https://lingkartv.com/assets/img/logo-square.png" group-title="Daerah",Lingkar TV
 https://lingkartv.my.id/hls/lingkartv.m3u8
 #EXTINF:-1 tvg-chno="068" tvg-id="Lingua.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/Lingua_Channel.png/revision/latest?cb=20210115170811" group-title="Pengetahuan",Lingua
 https://cdngb196.indihometv.com/joss/133/lingua/index.m3u8
@@ -207,8 +207,6 @@ https://cdngb196.indihometv.com/atm/hlsv3/RRI_NET_HD/RRI_NET_HD.m3u8
 https://cdngb196.indihometv.com/atm/hlsv3/sctv/sctv.m3u8
 #EXTINF:-1 tvg-chno="141" tvg-id="SeaToDay.id" tvg-logo="" group-title="Gaya Hidup",Sea To Day
 http://cdngb196.indihometv.com/atm/hlsv3/seatoday/seatoday.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="SBS.id" tvg-logo="" group-title="Entertainment",SBS TV
-https://newidco-sbs-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="095" tvg-id="SemarangTV.id" tvg-logo="https://i.imgur.com/KFC2WSB.png" group-title="Daerah",Semarang TV
 http://116.254.112.74/hls/cakralive.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="Shenzen.id" tvg-logo="" group-title="Internasional",Shenzen
