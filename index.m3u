@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="147" tvg-id="Aljazeera.id" tvg-logo="" group-title="Berita",Aljazeera
-http://cdngb196.indihometv.com/atm/hlsv3/aljazeera/aljazeera.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="Al-Jazeera.id" tvg-logo="" group-title="Berita",Al-Jazeera Arabic
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+#EXTINF:-1 tvg-chno="147" tvg-id="Al-Jazeera.id" tvg-logo="" group-title="Berita",Al-Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-chno="133" tvg-id="AllPlayEnt.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/AllPlay_Entertainment.png" group-title="Entertainment",All Play Entertainment
 https://cdngb196.indihometv.com/atm/hlsv3/useeprime/useeprime.m3u8
 #EXTINF:-1 tvg-chno="150" tvg-id="AlQur'anTV.id" tvg-logo="" group-title="Religi",Al Qur'an TV
@@ -49,6 +51,8 @@ https://cdngb196.indihometv.com/joss/130/cdrama/index.m3u8
 https://cdngb196.indihometv.com/joss/130/chinesedrama/index.m3u8
 #EXTINF:-1 tvg-chno="020" group-title="Berita" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/1200px-CNN_International_logo.svg.png",CNN INDONESIA
 https://cdngb196.indihometv.com/joss/133/cnnindonesia/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="CNA.id" tvg-logo="" group-title="Berita",CNA
+https://d2e1asnsl7br7b.cloudfront.net/4c152bfc7ad2463d928bfbec0990eaeb/index.m3u8
 #EXTINF:-1 tvg-chno="021" tvg-id="CNBCIndonesia.id" tvg-logo="https://i.imgur.com/bUfeG7Y.png" group-title="Berita",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 #EXTINF:-1 tvg-chno="153" tvg-id="Crime+Investigation.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" group-title="Pengetahuan",Crime + Investigation
