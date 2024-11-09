@@ -73,8 +73,6 @@ https://cdngb196.indihometv.com/joss/134/dwtv/index.m3u8
 https://cdngb196.indihometv.com/joss/134/eatgo/index.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="ElJohn.id" tvg-logo="" group-title="Entertainment",El John
 https://5fa0680b8b7b9.streamlock.net/eljohntvlive/eljohntvlive_360p/chunklist_w1865740852.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="Fashion.id" tvg-logo="" group-title="Gaya Hidup",Fashion TV
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/lifestyle/fashiontv.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="Fashion.id" tvg-logo="" group-title="Gaya Hidup",Fashion TV (18+)
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-chno="035" tvg-id="FightSport.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/FIGHT_SPORTS_2018.png/revision/latest?cb=20191026180443" group-title="Olahraga",Fight Sport
