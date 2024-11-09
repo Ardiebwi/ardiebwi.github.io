@@ -11,12 +11,14 @@ http://cdngb196.indihometv.com/atm/hlsv3/alquran/alquran.m3u8
 https://cdngb196.indihometv.com/joss/194/animalplanet/index.m3u8
 #EXTINF:-1 tvg-chno="005" tvg-id="Animax.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/36BB0572-D313-4716-816C-042AA4D6B842.png/revision/latest?cb=20230226180856" group-title="Anak-anak",Animax
 https://cdngb196.indihometv.com/joss/130/animax/index.m3u8
-#EXTINF:-1 tvg-id="120" tvg-id"Aniplus.id" tvg-logo="https://www.dens.tv/images/channel-logo/38.jpg" group-title="Anak-anak", Aniplus
+#EXTINF:-1 tvg-chno="120" tvg-id="Aniplus.id" tvg-logo="https://www.dens.tv/images/channel-logo/38.jpg" group-title="Anak-anak", Aniplus
 http://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=ANIPLUS_HD
 #EXTINF:-1 tvg-chno="134" tvg-id="Antara.id" tvg-logo="https://www.sobatku.co.id/wp-content/uploads/2019/03/Logo-ANTARANews.png" group-title="Nasional",Antara
 https://cdngb196.indihometv.com/atm/hlsv3/antara/antara.m3u8
 #EXTINF:-1 tvg-chno="006" tvg-id="ANTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/512px-Antv_logo.svg.png" group-title="Nasional",ANTV
 https://cdngb196.indihometv.com/joss/130/antv/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="Arirang.id" tvg-logo="" group-title="Entertainment",Arirang
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="007" tvg-id="AsianFoodNetwork.id" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/99/Asian_Food_Network_logo_b%E1%BA%A3n_3.png/revision/latest?cb=20240707132512&path-prefix=vi" group-title="Entertainment",Asian Food Network
 https://cdngb196.indihometv.com/joss/133/afc/index.m3u8
 #EXTINF:-1 tvg-chno="135" tvg-id="ATV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5e/Logo_Agropolitan_TV_2022.png" group-title="Entertainment",ATV
@@ -49,6 +51,8 @@ https://cdngb196.indihometv.com/joss/130/citradangdut/index.m3u8
 https://cdngb196.indihometv.com/joss/130/cdrama/index.m3u8
 #EXTINF:-1 tvg-chno="019" tvg-id="ChineseDrama.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Chinese_Drama_TV.png" group-title="Film dan Drama",Chinese Drama
 https://cdngb196.indihometv.com/joss/130/chinesedrama/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="CJENM.id" tvg-logo="" group-title="Entertainment",CJ E&M
+https://d50a1g0nh14ou.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/CJ-ENM-prod/e91c6419_2e45_4f6c_a646_b912658d73b8/hls/playlist.m3u8
 #EXTINF:-1 tvg-chno="020" group-title="Berita" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/1200px-CNN_International_logo.svg.png",CNN INDONESIA
 https://cdngb196.indihometv.com/joss/133/cnnindonesia/index.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="CNA.id" tvg-logo="" group-title="Berita",CNA
@@ -203,6 +207,8 @@ https://cdngb196.indihometv.com/atm/hlsv3/RRI_NET_HD/RRI_NET_HD.m3u8
 https://cdngb196.indihometv.com/atm/hlsv3/sctv/sctv.m3u8
 #EXTINF:-1 tvg-chno="141" tvg-id="SeaToDay.id" tvg-logo="" group-title="Gaya Hidup",Sea To Day
 http://cdngb196.indihometv.com/atm/hlsv3/seatoday/seatoday.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="SBS.id" tvg-logo="" group-title="Entertainment",SBS TV
+https://newidco-sbs-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="095" tvg-id="SemarangTV.id" tvg-logo="https://i.imgur.com/KFC2WSB.png" group-title="Daerah",Semarang TV
 http://116.254.112.74/hls/cakralive.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="Shenzen.id" tvg-logo="" group-title="Internasional",Shenzen
