@@ -71,6 +71,12 @@ https://cdngb196.indihometv.com/joss/130/dunialain/index.m3u8
 https://cdngb196.indihometv.com/joss/134/dwtv/index.m3u8
 #EXTINF:-1 tvg-chno="031" tvg-id="Eat&Go.id" tvg-logo="https://imgur.com/K2DtEk3.png" group-title="Entertainment",Eat & Go
 https://cdngb196.indihometv.com/joss/134/eatgo/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="ElJohn.id" tvg-logo="" group-title="Entertainment",El John
+https://5fa0680b8b7b9.streamlock.net/eljohntvlive/eljohntvlive_360p/chunklist_w1865740852.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="Fashion.id" tvg-logo="" group-title="Gaya Hidup",Fashion TV
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/lifestyle/fashiontv.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="Fashion.id" tvg-logo="" group-title="Gaya Hidup",Fashion TV (18+)
+https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-chno="035" tvg-id="FightSport.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/FIGHT_SPORTS_2018.png/revision/latest?cb=20191026180443" group-title="Olahraga",Fight Sport
 https://cdngb196.indihometv.com/joss/133/fightsport/index.m3u8
 #EXTINF:-1 tvg-chno="036" tvg-id="Flik.id" tvg-logo="https://imgur.com/gBZNgy4.png" group-title="Film dan Drama",Flik
@@ -125,6 +131,8 @@ https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 https://cdngb196.indihometv.com/joss/134/jtv/index.m3u8
 #EXTINF:-1 tvg-chno="148" tvg-id="K+.id" tvg-logo="" group-title="Entertainment",K+
 http://cdngb196.indihometv.com/atm/hlsv3/kplus/kplus.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="KBS.id" tvg-logo="" group-title="Entertainment",KBS Korea
+http://61.82.49.4:1935/live/_definst_/tv.stream/chunklist_w432889607.m3u8
 #EXTINF:-1 tvg-chno=""064 tvg-id="KilisuciTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e4/Kilisuci_TV_NEW_LOGO_2016.png" group-title="Daerah",Kilisuci TV
 https://5bf7b725107e5.streamlock.net/kstv/kstv/playlist.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="Kix.id" tvg-logo="" group-title="Entertainment",Kix
