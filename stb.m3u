@@ -133,7 +133,7 @@ http://cdngb196.indihometv.com/atm/hlsv3/jawapos/jawapos.m3u8
 http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
 #EXTINF:-1 tvg-chno="062" tvg-id="JogjaTV.id" tvg-logo="https://i.imgur.com/m9ezMUz.png" group-title="Daerah",Jogja TV
 https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
-#EXTINF:-1 tvg-chno="063" tvg-id="JTV.id" tvg-logo="https://i.imgur.com/mIDWIQk.png" group-title="Daerah",JTV
+#EXTINF:-1 tvg-chno="063" tvg-id="JTV.id" tvg-logo="https://i.imgur.com/mIDWIQk.png" group-title="Nasional",JTV
 https://cdngb196.indihometv.com/joss/134/jtv/index.m3u8
 #EXTINF:-1 tvg-chno="148" tvg-id="K+.id" tvg-logo="" group-title="Entertainment",K+
 http://cdngb196.indihometv.com/atm/hlsv3/kplus/kplus.m3u8
@@ -255,11 +255,11 @@ http://cdngb196.indihometv.com/atm/hlsv3/tvone/tvone.m3u8
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 #EXTINF:-1 tvg-chno="130" tvg-id="TVRIJawaBarat.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/TVRI_Jawa_Barat.png" group-title="Daerah",TVRI Jawa Barat
 https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8
-#EXTINF:-1 tvg-chno="111" tvg-id="TVRIJawaTengah.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/TVRI_Jawa_Tengah.png" group-title="Daerah",TVRI Jawa Tengah
+#EXTINF:-1 tvg-chno="111" tvg-id="TVRIJawaTengah.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/TVRI_Jawa_Tengah.png" group-title="Nasional",TVRI Jawa Tengah
 https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8
-#EXTINF:-1 tvg-chno="112" tvg-id="TVRIJawaTimur.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/TVRI_Jawa_Timur.png" group-title="Daerah",TVRI Jawa Timur
+#EXTINF:-1 tvg-chno="112" tvg-id="TVRIJawaTimur.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/TVRI_Jawa_Timur.png" group-title="Nasional",TVRI Jawa Timur
 https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8
-#EXTINF:-1 tvg-chno="132" tvg-id="TVRIJogja.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/TVRI_Yogyakarta.png" group-title="Daerah",TVRI Jogja
+#EXTINF:-1 tvg-chno="132" tvg-id="TVRIJogja.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/TVRI_Yogyakarta.png" group-title="Nasional",TVRI Jogja
 https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
 #EXTINF:-1 tvg-chno="113" tvg-id="TVRISport.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/tvrisport.png?raw=true" group-title="Olahraga",TVRI Sport
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
