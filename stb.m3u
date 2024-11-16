@@ -237,11 +237,11 @@ https://cdngb196.indihometv.com/joss/133/tlc/index.m3u8
 https://cdngb196.indihometv.com/atm/hlsv3/trans7/trans7.m3u8
 #EXTINF:-1 tvg-chno="102" tvg-id="TransTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/512px-Trans_TV_2013.svg.png" group-title="Nasional",Trans TV
 https://cdngb196.indihometv.com/joss/133/transtv/index.m3u8
-#EXTINF:-1 tvg-chno="103" tvg-id="TV9Nusantara.id" tvg-logo="https://i.imgur.com/xPjWyiL.png" group-title="Nasional",TV 9 Nusantara
+#EXTINF:-1 tvg-chno="103" tvg-id="TV9Nusantara.id" tvg-logo="https://i.imgur.com/xPjWyiL.png" group-title="Daerah",TV 9 Nusantara
 https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 #EXTINF:-1 tvg-chno="104" tvg-id="TVKesehatan.id" tvg-logo="https://i.imgur.com/IGIX3o8.jpg" group-title="Gaya Hidup",TV Kesehatan
 https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8
-#EXTINF:-1 tvg-chno="105" tvg-id="TVKU.id" tvg-logo="https://i.imgur.com/BAklJGy.png" group-title="Nasional",TVKU
+#EXTINF:-1 tvg-chno="105" tvg-id="TVKU.id" tvg-logo="https://i.imgur.com/BAklJGy.png" group-title="Daerah",TVKU
 http://103.30.1.14:8080/hls/live.m3u8
 #EXTINF:-1 tvg-chno="106" tvg-id="TVMu.id" tvg-logo="https://i.imgur.com/rR2iPBk.png" group-title="Religi",TV Mu
 https://cdngb196.indihometv.com/atm/hlsv3/muhammadiyahtv/muhammadiyahtv.m3u8
