@@ -3,7 +3,7 @@
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 #EXTINF:-1 tvg-chno="147" tvg-id="Al-Jazeera.id" tvg-logo="" group-title="Berita",Al-Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-#EXTINF:-1 tvg-chno="133" tvg-id="AllPlayEnt.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/AllPlay_Entertainment.png" group-title="Entertainment",All Play Entertainment
+#EXTINF:-1 tvg-chno="133" tvg-id="AllPlayEnt.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/AllPlay_Entertainment.png" group-title="Nasional",All Play Entertainment
 https://cdngb196.indihometv.com/atm/hlsv3/useeprime/useeprime.m3u8
 #EXTINF:-1 tvg-chno="150" tvg-id="AlQur'anTV.id" tvg-logo="" group-title="Religi",Al Qur'an TV
 http://cdngb196.indihometv.com/atm/hlsv3/alquran/alquran.m3u8
@@ -73,11 +73,11 @@ https://cdngb196.indihometv.com/joss/133/dreamworks/index.m3u8
 https://cdngb196.indihometv.com/joss/130/duniaanak/index.m3u8
 #EXTINF:-1 tvg-chno="028" tvg-id="DuniaGamesTV.id" tvg-logo="https://i.imgur.com/SSDguTa.png" group-title="Olahraga",Dunia Games TV
 https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6854467f-52fe-48ee-9822-00233c678709)/index.m3u8
-#EXTINF:-1 tvg-chno="029" tvg-id="DuniaLain.id" tvg-logo="https://imgur.com/W1tGNGi.png" group-title="Entertainment",Dunia Lain
+#EXTINF:-1 tvg-chno="029" tvg-id="DuniaLain.id" tvg-logo="https://imgur.com/W1tGNGi.png" group-title="Nasional",Dunia Lain
 https://cdngb196.indihometv.com/joss/130/dunialain/index.m3u8
 #EXTINF:-1 tvg-chno="131" tvg-id="DWTV.id" tvg-logo="" group-title="Gaya Hidup",DW TV
 https://cdngb196.indihometv.com/joss/134/dwtv/index.m3u8
-#EXTINF:-1 tvg-chno="031" tvg-id="Eat&Go.id" tvg-logo="https://imgur.com/K2DtEk3.png" group-title="Entertainment",Eat & Go
+#EXTINF:-1 tvg-chno="031" tvg-id="Eat&Go.id" tvg-logo="https://imgur.com/K2DtEk3.png" group-title="Nasional",Eat & Go
 https://cdngb196.indihometv.com/joss/134/eatgo/index.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="ElJohn.id" tvg-logo="" group-title="Entertainment",El John
 https://5fa0680b8b7b9.streamlock.net/eljohntvlive/eljohntvlive_360p/chunklist_w1865740852.m3u8
