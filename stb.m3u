@@ -119,7 +119,7 @@ https://cdngb196.indihometv.com/joss/130/imc/index.m3u8
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-chno="158" tvg-id="IMTV.id" tvg-logo="" group-title="Musik",IMTV
 https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
-#EXTINF:-1 tvg-chno="054" tvg-id="Indonesiana.tv" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/indonesianatv.png?raw=true" group-title="Nasional",Indonesiana.TV
+#EXTINF:-1 tvg-chno="054" tvg-id="Indonesiana.tv" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/indonesianatv.png?raw=true" group-title="Entertainment",Indonesiana.TV
 https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index.m3u8
 #EXTINF:-1 tvg-chno="138" tvg-id="Indosiar.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Indosiar_Logo_2013.png/revision/latest/scale-to-width-down/250?cb=20201025081108" group-title="Nasional",Indosiar
 https://cdngb196.indihometv.com/atm/hlsv3/indosiar/indosiar.m3u8
