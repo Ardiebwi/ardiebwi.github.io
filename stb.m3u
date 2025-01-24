@@ -19,7 +19,7 @@ https://cdngb196.indihometv.com/atm/hlsv3/antara/antara.m3u8
 https://cdngb196.indihometv.com/joss/130/antv/index.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="Arirang.id" tvg-logo="" group-title="Entertainment",Arirang
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="007" tvg-id="AsianFoodNetwork.id" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/99/Asian_Food_Network_logo_b%E1%BA%A3n_3.png/revision/latest?cb=20240707132512&path-prefix=vi" group-title="Entertainment",Asian Food Network
+#EXTINF:-1 tvg-chno="007" tvg-id="AsianFoodNetwork.id" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/99/Asian_Food_Network_logo_b%E1%BA%A3n_3.png/revision/latest?cb=20240707132512&path-prefix=vi" group-title="Nasional",Asian Food Network
 https://cdngb196.indihometv.com/joss/133/afc/index.m3u8
 #EXTINF:-1 tvg-chno="135" tvg-id="ATV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5e/Logo_Agropolitan_TV_2022.png" group-title="Entertainment",ATV
 https://cdngb196.indihometv.com/atm/hlsv3/atv/atv.m3u8
@@ -77,7 +77,7 @@ https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6854467f-52fe-
 https://cdngb196.indihometv.com/joss/130/dunialain/index.m3u8
 #EXTINF:-1 tvg-chno="131" tvg-id="DWTV.id" tvg-logo="" group-title="Gaya Hidup",DW TV
 https://cdngb196.indihometv.com/joss/134/dwtv/index.m3u8
-#EXTINF:-1 tvg-chno="031" tvg-id="Eat&Go.id" tvg-logo="https://imgur.com/K2DtEk3.png" group-title="Nasional",Eat & Go
+#EXTINF:-1 tvg-chno="031" tvg-id="Eat&Go.id" tvg-logo="https://imgur.com/K2DtEk3.png" group-title="Entertainment",Eat & Go
 https://cdngb196.indihometv.com/joss/134/eatgo/index.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="ElJohn.id" tvg-logo="" group-title="Entertainment",El John
 https://5fa0680b8b7b9.streamlock.net/eljohntvlive/eljohntvlive_360p/chunklist_w1865740852.m3u8
@@ -101,7 +101,7 @@ https://cdngb196.indihometv.com/joss/133/history/index.m3u8
 https://cdngb196.indihometv.com/joss/133/hits/index.m3u8
 #EXTINF:-1 tvg-chno="045" tvg-id="HitsNow.id" tvg-logo="https://imgur.com/3jmzlgR.png" group-title="Film dan Drama",Hits Now
 https://cdngb196.indihometv.com/joss/134/hitsnow/index.m3u8
-#EXTINF:-1 tvg-chno="046" tvg-id="HitsMovies.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/HITS_MOVIES_ASIA.png/revision/latest?cb=20210828003911" group-title="Film dan Drama",Hits Movies
+#EXTINF:-1 tvg-chno="046" tvg-id="HitsMovies.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/HITS_MOVIES_ASIA.png/revision/latest?cb=20210828003911" group-title="Nasional",Hits Movies
 https://cdngb196.indihometv.com/joss/133/hitsmovie/index.m3u8
 #EXTINF:-1 tvg-chno="047" tvg-id="Horee.id" tvg-logo="https://i.imgur.com/S4aoHg8.png" group-title="Anak-anak",Horee!
 https://cdngb196.indihometv.com/joss/130/horee/index.m3u8
