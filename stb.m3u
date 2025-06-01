@@ -133,8 +133,8 @@ http://cdngb196.indihometv.com/atm/hlsv3/jawapos/jawapos.m3u8
 http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
 #EXTINF:-1 tvg-chno="062" tvg-id="JogjaTV.id" tvg-logo="https://i.imgur.com/m9ezMUz.png" group-title="Daerah",Jogja TV
 https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
-#EXTINF:-1 tvg-chno="063" tvg-id="JTV.id" tvg-logo="https://i.imgur.com/mIDWIQk.png" group-title="Nasional",JTV
-https://cdngb196.indihometv.com/joss/134/jtv/index.m3u8
+#EXTINF:-1 tvg-chno="063" tvg-id="JTV.id" tvg-logo="https://i.imgur.com/mIDWIQk.png" group-title="Aktif",JTV
+https://63b2dc7196c38.streamlock.net/JTVSURABAYA/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-chno="148" tvg-id="K+.id" tvg-logo="" group-title="Entertainment",K+
 http://cdngb196.indihometv.com/atm/hlsv3/kplus/kplus.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="KBS.id" tvg-logo="" group-title="Entertainment",KBS Korea
@@ -233,9 +233,9 @@ https://cdngb196.indihometv.com/joss/133/techstorm/index.m3u8
 http://cdngb196.indihometv.com/atm/hlsv3/thrill/thrill.m3u8
 #EXTINF:-1 tvg-chno="100" tvg-id="TLC.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/JSJEyPDJ.jpg/revision/latest?cb=20170528201758" group-title="Internasional",TLC
 https://cdngb196.indihometv.com/joss/133/tlc/index.m3u8
-#EXTINF:-1 tvg-chno="101" tvg-id="Trans7.id" tvg-logo="https://i.imgur.com/fAbGImS.png" group-title="Nasional",Trans7
+#EXTINF:-1 tvg-chno="101" tvg-id="Trans7.id" tvg-logo="https://i.imgur.com/fAbGImS.png" group-title="Aktif",Trans7
 https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
-#EXTINF:-1 tvg-chno="102" tvg-id="TransTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/512px-Trans_TV_2013.svg.png" group-title="Nasional",Trans TV
+#EXTINF:-1 tvg-chno="102" tvg-id="TransTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/512px-Trans_TV_2013.svg.png" group-title="Aktif",Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 #EXTINF:-1 tvg-chno="103" tvg-id="TV9Nusantara.id" tvg-logo="https://i.imgur.com/xPjWyiL.png" group-title="Nasional",TV 9 Nusantara
 https://cdngb196.indihometv.com/atm/hlsv3/tv9/tv9.m3u8
@@ -251,17 +251,17 @@ https://cdngb196.indihometv.com/joss/133/tvn/index.m3u8
 https://cdngb196.indihometv.com/joss/133/tvnmovies/index.m3u8
 #EXTINF:-1 tvg-chno="109" tvg-id="tvOne.id" tvg-logo="https://i.imgur.com/LCzQYdy.png" group-title="Berita",tvOne
 http://cdngb196.indihometv.com/atm/hlsv3/tvone/tvone.m3u8
-#EXTINF:-1 tvg-chno="110" tvg-id="TVRINasional.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/tvri.png?raw=true" group-title="Nasional",TVRI Nasional
+#EXTINF:-1 tvg-chno="110" tvg-id="TVRINasional.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/tvri.png?raw=true" group-title="Aktif",TVRI Nasional
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
-#EXTINF:-1 tvg-chno="130" tvg-id="TVRIJawaBarat.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/TVRI_Jawa_Barat.png" group-title="Daerah",TVRI Jawa Barat
+#EXTINF:-1 tvg-chno="130" tvg-id="TVRIJawaBarat.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/TVRI_Jawa_Barat.png" group-title="Aktif",TVRI Jawa Barat
 https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8
-#EXTINF:-1 tvg-chno="111" tvg-id="TVRIJawaTengah.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/TVRI_Jawa_Tengah.png" group-title="Nasional",TVRI Jawa Tengah
+#EXTINF:-1 tvg-chno="111" tvg-id="TVRIJawaTengah.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/TVRI_Jawa_Tengah.png" group-title="Aktif",TVRI Jawa Tengah
 https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8
-#EXTINF:-1 tvg-chno="112" tvg-id="TVRIJawaTimur.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/TVRI_Jawa_Timur.png" group-title="Nasional",TVRI Jawa Timur
+#EXTINF:-1 tvg-chno="112" tvg-id="TVRIJawaTimur.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/TVRI_Jawa_Timur.png" group-title="Aktif",TVRI Jawa Timur
 https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8
-#EXTINF:-1 tvg-chno="132" tvg-id="TVRIJogja.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/TVRI_Yogyakarta.png" group-title="Nasional",TVRI Jogja
+#EXTINF:-1 tvg-chno="132" tvg-id="TVRIJogja.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/TVRI_Yogyakarta.png" group-title="Aktif",TVRI Jogja
 https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
-#EXTINF:-1 tvg-chno="113" tvg-id="TVRISport.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/tvrisport.png?raw=true" group-title="Olahraga",TVRI Sport
+#EXTINF:-1 tvg-chno="113" tvg-id="TVRISport.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/tvrisport.png?raw=true" group-title="Aktif",TVRI Sport
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 #EXTINF:-1 tvg-chno="114" tvg-id="TVRIWorld.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/tvriworld.png?raw=true" group-title="Internasional",TVRI World
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
